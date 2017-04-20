@@ -1,563 +1,563 @@
 <svg height="8958" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="8958" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-20 18:15:15 +0000  7033105 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-20 18:15:15 +0000     3376 bytes  CONTRIBUTING.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-20 18:15:15 +0000     1077 bytes  LICENSE.txt</tspan>
-<tspan x="10" y="74">  3.  2017-04-20 18:15:15 +0000     2627 bytes  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-20 18:15:15 +0000      638 bytes  bower.json</tspan>
-<tspan x="10" y="106">  5.  2017-04-20 18:15:15 +0000  1429082 bytes  dist/ag-grid.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-20 18:15:15 +0000   738527 bytes  dist/ag-grid.min.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-20 18:15:15 +0000   655103 bytes  dist/ag-grid.min.noStyle.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-20 18:15:15 +0000  1334274 bytes  dist/ag-grid.noStyle.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-20 18:15:15 +0000     1714 bytes  dist/lib/baseFrameworkFactory.d.ts</tspan>
-<tspan x="10" y="186"> 10.  2017-04-20 18:15:15 +0000     1724 bytes  dist/lib/baseFrameworkFactory.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-20 18:15:15 +0000      995 bytes  dist/lib/cellNavigationService.d.ts</tspan>
-<tspan x="10" y="218"> 12.  2017-04-20 18:15:15 +0000    10653 bytes  dist/lib/cellNavigationService.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-20 18:15:15 +0000      204 bytes  dist/lib/clientExports.d.ts</tspan>
-<tspan x="10" y="250"> 14.  2017-04-20 18:15:15 +0000    15031 bytes  dist/lib/clientExports.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-20 18:15:15 +0000     1102 bytes  dist/lib/columnChangeEvent.d.ts</tspan>
-<tspan x="10" y="282"> 16.  2017-04-20 18:15:15 +0000     2943 bytes  dist/lib/columnChangeEvent.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-20 18:15:15 +0000      446 bytes  dist/lib/columnController/autoGroupColService.d.\</tspan>
+<tspan x="10" y="26">  0.  2017-04-20 18:16:22 +0000  7033105 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-20 18:16:22 +0000     3376 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-20 18:16:22 +0000     1077 bytes  LICENSE.txt</tspan>
+<tspan x="10" y="74">  3.  2017-04-20 18:16:22 +0000     2627 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-20 18:16:22 +0000      638 bytes  bower.json</tspan>
+<tspan x="10" y="106">  5.  2017-04-20 18:16:22 +0000  1429082 bytes  dist/ag-grid.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-20 18:16:22 +0000   738527 bytes  dist/ag-grid.min.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-20 18:16:22 +0000   655103 bytes  dist/ag-grid.min.noStyle.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-20 18:16:22 +0000  1334274 bytes  dist/ag-grid.noStyle.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-20 18:16:22 +0000     1714 bytes  dist/lib/baseFrameworkFactory.d.ts</tspan>
+<tspan x="10" y="186"> 10.  2017-04-20 18:16:22 +0000     1724 bytes  dist/lib/baseFrameworkFactory.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-20 18:16:22 +0000      995 bytes  dist/lib/cellNavigationService.d.ts</tspan>
+<tspan x="10" y="218"> 12.  2017-04-20 18:16:22 +0000    10653 bytes  dist/lib/cellNavigationService.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-20 18:16:22 +0000      204 bytes  dist/lib/clientExports.d.ts</tspan>
+<tspan x="10" y="250"> 14.  2017-04-20 18:16:22 +0000    15031 bytes  dist/lib/clientExports.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-20 18:16:22 +0000     1102 bytes  dist/lib/columnChangeEvent.d.ts</tspan>
+<tspan x="10" y="282"> 16.  2017-04-20 18:16:22 +0000     2943 bytes  dist/lib/columnChangeEvent.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-20 18:16:22 +0000      446 bytes  dist/lib/columnController/autoGroupColService.d.\</tspan>
 <tspan x="10" y="314">ts</tspan>
-<tspan x="10" y="330"> 18.  2017-04-20 18:15:15 +0000     5235 bytes  dist/lib/columnController/autoGroupColService.js</tspan>
-<tspan x="10" y="346"> 19.  2017-04-20 18:15:15 +0000     1046 bytes  dist/lib/columnController/balancedColumnTreeBuil\</tspan>
+<tspan x="10" y="330"> 18.  2017-04-20 18:16:22 +0000     5235 bytes  dist/lib/columnController/autoGroupColService.js</tspan>
+<tspan x="10" y="346"> 19.  2017-04-20 18:16:22 +0000     1046 bytes  dist/lib/columnController/balancedColumnTreeBuil\</tspan>
 <tspan x="10" y="362">der.d.ts</tspan>
-<tspan x="10" y="378"> 20.  2017-04-20 18:15:15 +0000    10636 bytes  dist/lib/columnController/balancedColumnTreeBuil\</tspan>
+<tspan x="10" y="378"> 20.  2017-04-20 18:16:22 +0000    10636 bytes  dist/lib/columnController/balancedColumnTreeBuil\</tspan>
 <tspan x="10" y="394">der.js</tspan>
-<tspan x="10" y="410"> 21.  2017-04-20 18:15:15 +0000    13387 bytes  dist/lib/columnController/columnController.d.ts</tspan>
-<tspan x="10" y="426"> 22.  2017-04-20 18:15:15 +0000    89490 bytes  dist/lib/columnController/columnController.js</tspan>
-<tspan x="10" y="442"> 23.  2017-04-20 18:15:15 +0000      264 bytes  dist/lib/columnController/columnKeyCreator.d.ts</tspan>
-<tspan x="10" y="458"> 24.  2017-04-20 18:15:15 +0000     1709 bytes  dist/lib/columnController/columnKeyCreator.js</tspan>
-<tspan x="10" y="474"> 25.  2017-04-20 18:15:15 +0000     1004 bytes  dist/lib/columnController/columnUtils.d.ts</tspan>
-<tspan x="10" y="490"> 26.  2017-04-20 18:15:15 +0000     6219 bytes  dist/lib/columnController/columnUtils.js</tspan>
-<tspan x="10" y="506"> 27.  2017-04-20 18:15:15 +0000     1015 bytes  dist/lib/columnController/displayedGroupCreator.\</tspan>
+<tspan x="10" y="410"> 21.  2017-04-20 18:16:22 +0000    13387 bytes  dist/lib/columnController/columnController.d.ts</tspan>
+<tspan x="10" y="426"> 22.  2017-04-20 18:16:22 +0000    89490 bytes  dist/lib/columnController/columnController.js</tspan>
+<tspan x="10" y="442"> 23.  2017-04-20 18:16:22 +0000      264 bytes  dist/lib/columnController/columnKeyCreator.d.ts</tspan>
+<tspan x="10" y="458"> 24.  2017-04-20 18:16:22 +0000     1709 bytes  dist/lib/columnController/columnKeyCreator.js</tspan>
+<tspan x="10" y="474"> 25.  2017-04-20 18:16:22 +0000     1004 bytes  dist/lib/columnController/columnUtils.d.ts</tspan>
+<tspan x="10" y="490"> 26.  2017-04-20 18:16:22 +0000     6219 bytes  dist/lib/columnController/columnUtils.js</tspan>
+<tspan x="10" y="506"> 27.  2017-04-20 18:16:22 +0000     1015 bytes  dist/lib/columnController/displayedGroupCreator.\</tspan>
 <tspan x="10" y="522">d.ts</tspan>
-<tspan x="10" y="538"> 28.  2017-04-20 18:15:15 +0000     9053 bytes  dist/lib/columnController/displayedGroupCreator.\</tspan>
+<tspan x="10" y="538"> 28.  2017-04-20 18:16:22 +0000     9053 bytes  dist/lib/columnController/displayedGroupCreator.\</tspan>
 <tspan x="10" y="554">js</tspan>
-<tspan x="10" y="570"> 29.  2017-04-20 18:15:15 +0000      256 bytes  dist/lib/columnController/groupInstanceIdCreator\</tspan>
+<tspan x="10" y="570"> 29.  2017-04-20 18:16:22 +0000      256 bytes  dist/lib/columnController/groupInstanceIdCreator\</tspan>
 <tspan x="10" y="586">.d.ts</tspan>
-<tspan x="10" y="602"> 30.  2017-04-20 18:15:15 +0000     1329 bytes  dist/lib/columnController/groupInstanceIdCreator\</tspan>
+<tspan x="10" y="602"> 30.  2017-04-20 18:16:22 +0000     1329 bytes  dist/lib/columnController/groupInstanceIdCreator\</tspan>
 <tspan x="10" y="618">.js</tspan>
-<tspan x="10" y="634"> 31.  2017-04-20 18:15:15 +0000     2386 bytes  dist/lib/componentProvider.d.ts</tspan>
-<tspan x="10" y="650"> 32.  2017-04-20 18:15:15 +0000    11066 bytes  dist/lib/componentProvider.js</tspan>
-<tspan x="10" y="666"> 33.  2017-04-20 18:15:15 +0000      211 bytes  dist/lib/components/agGridNg1.d.ts</tspan>
-<tspan x="10" y="682"> 34.  2017-04-20 18:15:15 +0000     1474 bytes  dist/lib/components/agGridNg1.js</tspan>
-<tspan x="10" y="698"> 35.  2017-04-20 18:15:15 +0000      204 bytes  dist/lib/components/agGridWebComponent.d.ts</tspan>
-<tspan x="10" y="714"> 36.  2017-04-20 18:15:15 +0000     4623 bytes  dist/lib/components/agGridWebComponent.js</tspan>
-<tspan x="10" y="730"> 37.  2017-04-20 18:15:15 +0000     1069 bytes  dist/lib/components/componentUtil.d.ts</tspan>
-<tspan x="10" y="746"> 38.  2017-04-20 18:15:15 +0000    11241 bytes  dist/lib/components/componentUtil.js</tspan>
-<tspan x="10" y="762"> 39.  2017-04-20 18:15:15 +0000     2338 bytes  dist/lib/constants.d.ts</tspan>
-<tspan x="10" y="778"> 40.  2017-04-20 18:15:15 +0000     3742 bytes  dist/lib/constants.js</tspan>
-<tspan x="10" y="794"> 41.  2017-04-20 18:15:15 +0000      846 bytes  dist/lib/context/beanStub.d.ts</tspan>
-<tspan x="10" y="810"> 42.  2017-04-20 18:15:15 +0000     2552 bytes  dist/lib/context/beanStub.js</tspan>
-<tspan x="10" y="826"> 43.  2017-04-20 18:15:15 +0000     1990 bytes  dist/lib/context/context.d.ts</tspan>
-<tspan x="10" y="842"> 44.  2017-04-20 18:15:15 +0000    13118 bytes  dist/lib/context/context.js</tspan>
-<tspan x="10" y="858"> 45.  2017-04-20 18:15:15 +0000     1863 bytes  dist/lib/csvCreator.d.ts</tspan>
-<tspan x="10" y="874"> 46.  2017-04-20 18:15:15 +0000     7497 bytes  dist/lib/csvCreator.js</tspan>
-<tspan x="10" y="890"> 47.  2017-04-20 18:15:15 +0000      246 bytes  dist/lib/downloader.d.ts</tspan>
-<tspan x="10" y="906"> 48.  2017-04-20 18:15:15 +0000     1917 bytes  dist/lib/downloader.js</tspan>
-<tspan x="10" y="922"> 49.  2017-04-20 18:15:15 +0000     4106 bytes  dist/lib/dragAndDrop/dragAndDropService.d.ts</tspan>
-<tspan x="10" y="938"> 50.  2017-04-20 18:15:15 +0000    17609 bytes  dist/lib/dragAndDrop/dragAndDropService.js</tspan>
-<tspan x="10" y="954"> 51.  2017-04-20 18:15:15 +0000     2104 bytes  dist/lib/dragAndDrop/dragService.d.ts</tspan>
-<tspan x="10" y="970"> 52.  2017-04-20 18:15:15 +0000    11728 bytes  dist/lib/dragAndDrop/dragService.js</tspan>
-<tspan x="10" y="986"> 53.  2017-04-20 18:15:15 +0000    11207 bytes  dist/lib/entities/colDef.d.ts</tspan>
-<tspan x="10" y="1002"> 54.  2017-04-20 18:15:15 +0000      257 bytes  dist/lib/entities/colDef.js</tspan>
-<tspan x="10" y="1018"> 55.  2017-04-20 18:15:15 +0000     4751 bytes  dist/lib/entities/column.d.ts</tspan>
-<tspan x="10" y="1034"> 56.  2017-04-20 18:15:15 +0000    16521 bytes  dist/lib/entities/column.js</tspan>
-<tspan x="10" y="1050"> 57.  2017-04-20 18:15:15 +0000     2281 bytes  dist/lib/entities/columnGroup.d.ts</tspan>
-<tspan x="10" y="1066"> 58.  2017-04-20 18:15:15 +0000    10135 bytes  dist/lib/entities/columnGroup.js</tspan>
-<tspan x="10" y="1082"> 59.  2017-04-20 18:15:15 +0000      587 bytes  dist/lib/entities/columnGroupChild.d.ts</tspan>
-<tspan x="10" y="1098"> 60.  2017-04-20 18:15:15 +0000      257 bytes  dist/lib/entities/columnGroupChild.js</tspan>
-<tspan x="10" y="1114"> 61.  2017-04-20 18:15:15 +0000      557 bytes  dist/lib/entities/gridCell.d.ts</tspan>
-<tspan x="10" y="1130"> 62.  2017-04-20 18:15:15 +0000     1268 bytes  dist/lib/entities/gridCell.js</tspan>
-<tspan x="10" y="1146"> 63.  2017-04-20 18:15:15 +0000    13282 bytes  dist/lib/entities/gridOptions.d.ts</tspan>
-<tspan x="10" y="1162"> 64.  2017-04-20 18:15:15 +0000      257 bytes  dist/lib/entities/gridOptions.js</tspan>
-<tspan x="10" y="1178"> 65.  2017-04-20 18:15:15 +0000      593 bytes  dist/lib/entities/gridRow.d.ts</tspan>
-<tspan x="10" y="1194"> 66.  2017-04-20 18:15:15 +0000     2992 bytes  dist/lib/entities/gridRow.js</tspan>
-<tspan x="10" y="1210"> 67.  2017-04-20 18:15:15 +0000     1318 bytes  dist/lib/entities/originalColumnGroup.d.ts</tspan>
-<tspan x="10" y="1226"> 68.  2017-04-20 18:15:15 +0000     4762 bytes  dist/lib/entities/originalColumnGroup.js</tspan>
-<tspan x="10" y="1242"> 69.  2017-04-20 18:15:15 +0000      238 bytes  dist/lib/entities/originalColumnGroupChild.d.ts</tspan>
-<tspan x="10" y="1258"> 70.  2017-04-20 18:15:15 +0000      257 bytes  dist/lib/entities/originalColumnGroupChild.js</tspan>
-<tspan x="10" y="1274"> 71.  2017-04-20 18:15:15 +0000     6151 bytes  dist/lib/entities/rowNode.d.ts</tspan>
-<tspan x="10" y="1290"> 72.  2017-04-20 18:15:15 +0000    19988 bytes  dist/lib/entities/rowNode.js</tspan>
-<tspan x="10" y="1306"> 73.  2017-04-20 18:15:15 +0000      901 bytes  dist/lib/eventService.d.ts</tspan>
-<tspan x="10" y="1322"> 74.  2017-04-20 18:15:15 +0000     4833 bytes  dist/lib/eventService.js</tspan>
-<tspan x="10" y="1338"> 75.  2017-04-20 18:15:15 +0000     6958 bytes  dist/lib/events.d.ts</tspan>
-<tspan x="10" y="1354"> 76.  2017-04-20 18:15:15 +0000     6807 bytes  dist/lib/events.js</tspan>
-<tspan x="10" y="1370"> 77.  2017-04-20 18:15:15 +0000     1521 bytes  dist/lib/exportParams.d.ts</tspan>
-<tspan x="10" y="1386"> 78.  2017-04-20 18:15:15 +0000      257 bytes  dist/lib/exportParams.js</tspan>
-<tspan x="10" y="1402"> 79.  2017-04-20 18:15:15 +0000      422 bytes  dist/lib/expressionService.d.ts</tspan>
-<tspan x="10" y="1418"> 80.  2017-04-20 18:15:15 +0000     3794 bytes  dist/lib/expressionService.js</tspan>
-<tspan x="10" y="1434"> 81.  2017-04-20 18:15:15 +0000     3329 bytes  dist/lib/filter/baseFilter.d.ts</tspan>
-<tspan x="10" y="1450"> 82.  2017-04-20 18:15:15 +0000    12412 bytes  dist/lib/filter/baseFilter.js</tspan>
-<tspan x="10" y="1466"> 83.  2017-04-20 18:15:15 +0000     1958 bytes  dist/lib/filter/dateFilter.d.ts</tspan>
-<tspan x="10" y="1482"> 84.  2017-04-20 18:15:15 +0000     8441 bytes  dist/lib/filter/dateFilter.js</tspan>
-<tspan x="10" y="1498"> 85.  2017-04-20 18:15:15 +0000      230 bytes  dist/lib/filter/filter.d.ts</tspan>
-<tspan x="10" y="1514"> 86.  2017-04-20 18:15:15 +0000      257 bytes  dist/lib/filter/filter.js</tspan>
-<tspan x="10" y="1530"> 87.  2017-04-20 18:15:15 +0000     2277 bytes  dist/lib/filter/filterManager.d.ts</tspan>
-<tspan x="10" y="1546"> 88.  2017-04-20 18:15:15 +0000    21106 bytes  dist/lib/filter/filterManager.js</tspan>
-<tspan x="10" y="1562"> 89.  2017-04-20 18:15:15 +0000     3780 bytes  dist/lib/filter/floatingFilter.d.ts</tspan>
-<tspan x="10" y="1578"> 90.  2017-04-20 18:15:15 +0000    11101 bytes  dist/lib/filter/floatingFilter.js</tspan>
-<tspan x="10" y="1594"> 91.  2017-04-20 18:15:15 +0000     2149 bytes  dist/lib/filter/floatingFilterWrapper.d.ts</tspan>
-<tspan x="10" y="1610"> 92.  2017-04-20 18:15:15 +0000     5939 bytes  dist/lib/filter/floatingFilterWrapper.js</tspan>
-<tspan x="10" y="1626"> 93.  2017-04-20 18:15:15 +0000     1533 bytes  dist/lib/filter/numberFilter.d.ts</tspan>
-<tspan x="10" y="1642"> 94.  2017-04-20 18:15:15 +0000     7548 bytes  dist/lib/filter/numberFilter.js</tspan>
-<tspan x="10" y="1658"> 95.  2017-04-20 18:15:15 +0000      405 bytes  dist/lib/filter/textAndNumberFilterParameters.d.\</tspan>
+<tspan x="10" y="634"> 31.  2017-04-20 18:16:22 +0000     2386 bytes  dist/lib/componentProvider.d.ts</tspan>
+<tspan x="10" y="650"> 32.  2017-04-20 18:16:22 +0000    11066 bytes  dist/lib/componentProvider.js</tspan>
+<tspan x="10" y="666"> 33.  2017-04-20 18:16:22 +0000      211 bytes  dist/lib/components/agGridNg1.d.ts</tspan>
+<tspan x="10" y="682"> 34.  2017-04-20 18:16:22 +0000     1474 bytes  dist/lib/components/agGridNg1.js</tspan>
+<tspan x="10" y="698"> 35.  2017-04-20 18:16:22 +0000      204 bytes  dist/lib/components/agGridWebComponent.d.ts</tspan>
+<tspan x="10" y="714"> 36.  2017-04-20 18:16:22 +0000     4623 bytes  dist/lib/components/agGridWebComponent.js</tspan>
+<tspan x="10" y="730"> 37.  2017-04-20 18:16:22 +0000     1069 bytes  dist/lib/components/componentUtil.d.ts</tspan>
+<tspan x="10" y="746"> 38.  2017-04-20 18:16:22 +0000    11241 bytes  dist/lib/components/componentUtil.js</tspan>
+<tspan x="10" y="762"> 39.  2017-04-20 18:16:22 +0000     2338 bytes  dist/lib/constants.d.ts</tspan>
+<tspan x="10" y="778"> 40.  2017-04-20 18:16:22 +0000     3742 bytes  dist/lib/constants.js</tspan>
+<tspan x="10" y="794"> 41.  2017-04-20 18:16:22 +0000      846 bytes  dist/lib/context/beanStub.d.ts</tspan>
+<tspan x="10" y="810"> 42.  2017-04-20 18:16:22 +0000     2552 bytes  dist/lib/context/beanStub.js</tspan>
+<tspan x="10" y="826"> 43.  2017-04-20 18:16:22 +0000     1990 bytes  dist/lib/context/context.d.ts</tspan>
+<tspan x="10" y="842"> 44.  2017-04-20 18:16:22 +0000    13118 bytes  dist/lib/context/context.js</tspan>
+<tspan x="10" y="858"> 45.  2017-04-20 18:16:22 +0000     1863 bytes  dist/lib/csvCreator.d.ts</tspan>
+<tspan x="10" y="874"> 46.  2017-04-20 18:16:22 +0000     7497 bytes  dist/lib/csvCreator.js</tspan>
+<tspan x="10" y="890"> 47.  2017-04-20 18:16:22 +0000      246 bytes  dist/lib/downloader.d.ts</tspan>
+<tspan x="10" y="906"> 48.  2017-04-20 18:16:22 +0000     1917 bytes  dist/lib/downloader.js</tspan>
+<tspan x="10" y="922"> 49.  2017-04-20 18:16:22 +0000     4106 bytes  dist/lib/dragAndDrop/dragAndDropService.d.ts</tspan>
+<tspan x="10" y="938"> 50.  2017-04-20 18:16:22 +0000    17609 bytes  dist/lib/dragAndDrop/dragAndDropService.js</tspan>
+<tspan x="10" y="954"> 51.  2017-04-20 18:16:22 +0000     2104 bytes  dist/lib/dragAndDrop/dragService.d.ts</tspan>
+<tspan x="10" y="970"> 52.  2017-04-20 18:16:22 +0000    11728 bytes  dist/lib/dragAndDrop/dragService.js</tspan>
+<tspan x="10" y="986"> 53.  2017-04-20 18:16:22 +0000    11207 bytes  dist/lib/entities/colDef.d.ts</tspan>
+<tspan x="10" y="1002"> 54.  2017-04-20 18:16:22 +0000      257 bytes  dist/lib/entities/colDef.js</tspan>
+<tspan x="10" y="1018"> 55.  2017-04-20 18:16:22 +0000     4751 bytes  dist/lib/entities/column.d.ts</tspan>
+<tspan x="10" y="1034"> 56.  2017-04-20 18:16:22 +0000    16521 bytes  dist/lib/entities/column.js</tspan>
+<tspan x="10" y="1050"> 57.  2017-04-20 18:16:22 +0000     2281 bytes  dist/lib/entities/columnGroup.d.ts</tspan>
+<tspan x="10" y="1066"> 58.  2017-04-20 18:16:22 +0000    10135 bytes  dist/lib/entities/columnGroup.js</tspan>
+<tspan x="10" y="1082"> 59.  2017-04-20 18:16:22 +0000      587 bytes  dist/lib/entities/columnGroupChild.d.ts</tspan>
+<tspan x="10" y="1098"> 60.  2017-04-20 18:16:22 +0000      257 bytes  dist/lib/entities/columnGroupChild.js</tspan>
+<tspan x="10" y="1114"> 61.  2017-04-20 18:16:22 +0000      557 bytes  dist/lib/entities/gridCell.d.ts</tspan>
+<tspan x="10" y="1130"> 62.  2017-04-20 18:16:22 +0000     1268 bytes  dist/lib/entities/gridCell.js</tspan>
+<tspan x="10" y="1146"> 63.  2017-04-20 18:16:22 +0000    13282 bytes  dist/lib/entities/gridOptions.d.ts</tspan>
+<tspan x="10" y="1162"> 64.  2017-04-20 18:16:22 +0000      257 bytes  dist/lib/entities/gridOptions.js</tspan>
+<tspan x="10" y="1178"> 65.  2017-04-20 18:16:22 +0000      593 bytes  dist/lib/entities/gridRow.d.ts</tspan>
+<tspan x="10" y="1194"> 66.  2017-04-20 18:16:22 +0000     2992 bytes  dist/lib/entities/gridRow.js</tspan>
+<tspan x="10" y="1210"> 67.  2017-04-20 18:16:22 +0000     1318 bytes  dist/lib/entities/originalColumnGroup.d.ts</tspan>
+<tspan x="10" y="1226"> 68.  2017-04-20 18:16:22 +0000     4762 bytes  dist/lib/entities/originalColumnGroup.js</tspan>
+<tspan x="10" y="1242"> 69.  2017-04-20 18:16:22 +0000      238 bytes  dist/lib/entities/originalColumnGroupChild.d.ts</tspan>
+<tspan x="10" y="1258"> 70.  2017-04-20 18:16:22 +0000      257 bytes  dist/lib/entities/originalColumnGroupChild.js</tspan>
+<tspan x="10" y="1274"> 71.  2017-04-20 18:16:22 +0000     6151 bytes  dist/lib/entities/rowNode.d.ts</tspan>
+<tspan x="10" y="1290"> 72.  2017-04-20 18:16:22 +0000    19988 bytes  dist/lib/entities/rowNode.js</tspan>
+<tspan x="10" y="1306"> 73.  2017-04-20 18:16:22 +0000      901 bytes  dist/lib/eventService.d.ts</tspan>
+<tspan x="10" y="1322"> 74.  2017-04-20 18:16:22 +0000     4833 bytes  dist/lib/eventService.js</tspan>
+<tspan x="10" y="1338"> 75.  2017-04-20 18:16:22 +0000     6958 bytes  dist/lib/events.d.ts</tspan>
+<tspan x="10" y="1354"> 76.  2017-04-20 18:16:22 +0000     6807 bytes  dist/lib/events.js</tspan>
+<tspan x="10" y="1370"> 77.  2017-04-20 18:16:22 +0000     1521 bytes  dist/lib/exportParams.d.ts</tspan>
+<tspan x="10" y="1386"> 78.  2017-04-20 18:16:22 +0000      257 bytes  dist/lib/exportParams.js</tspan>
+<tspan x="10" y="1402"> 79.  2017-04-20 18:16:22 +0000      422 bytes  dist/lib/expressionService.d.ts</tspan>
+<tspan x="10" y="1418"> 80.  2017-04-20 18:16:22 +0000     3794 bytes  dist/lib/expressionService.js</tspan>
+<tspan x="10" y="1434"> 81.  2017-04-20 18:16:22 +0000     3329 bytes  dist/lib/filter/baseFilter.d.ts</tspan>
+<tspan x="10" y="1450"> 82.  2017-04-20 18:16:22 +0000    12412 bytes  dist/lib/filter/baseFilter.js</tspan>
+<tspan x="10" y="1466"> 83.  2017-04-20 18:16:22 +0000     1958 bytes  dist/lib/filter/dateFilter.d.ts</tspan>
+<tspan x="10" y="1482"> 84.  2017-04-20 18:16:22 +0000     8441 bytes  dist/lib/filter/dateFilter.js</tspan>
+<tspan x="10" y="1498"> 85.  2017-04-20 18:16:22 +0000      230 bytes  dist/lib/filter/filter.d.ts</tspan>
+<tspan x="10" y="1514"> 86.  2017-04-20 18:16:22 +0000      257 bytes  dist/lib/filter/filter.js</tspan>
+<tspan x="10" y="1530"> 87.  2017-04-20 18:16:22 +0000     2277 bytes  dist/lib/filter/filterManager.d.ts</tspan>
+<tspan x="10" y="1546"> 88.  2017-04-20 18:16:22 +0000    21106 bytes  dist/lib/filter/filterManager.js</tspan>
+<tspan x="10" y="1562"> 89.  2017-04-20 18:16:22 +0000     3780 bytes  dist/lib/filter/floatingFilter.d.ts</tspan>
+<tspan x="10" y="1578"> 90.  2017-04-20 18:16:22 +0000    11101 bytes  dist/lib/filter/floatingFilter.js</tspan>
+<tspan x="10" y="1594"> 91.  2017-04-20 18:16:22 +0000     2149 bytes  dist/lib/filter/floatingFilterWrapper.d.ts</tspan>
+<tspan x="10" y="1610"> 92.  2017-04-20 18:16:22 +0000     5939 bytes  dist/lib/filter/floatingFilterWrapper.js</tspan>
+<tspan x="10" y="1626"> 93.  2017-04-20 18:16:22 +0000     1533 bytes  dist/lib/filter/numberFilter.d.ts</tspan>
+<tspan x="10" y="1642"> 94.  2017-04-20 18:16:22 +0000     7548 bytes  dist/lib/filter/numberFilter.js</tspan>
+<tspan x="10" y="1658"> 95.  2017-04-20 18:16:22 +0000      405 bytes  dist/lib/filter/textAndNumberFilterParameters.d.\</tspan>
 <tspan x="10" y="1674">ts</tspan>
-<tspan x="10" y="1690"> 96.  2017-04-20 18:15:15 +0000      257 bytes  dist/lib/filter/textAndNumberFilterParameters.js</tspan>
-<tspan x="10" y="1706"> 97.  2017-04-20 18:15:15 +0000     1127 bytes  dist/lib/filter/textFilter.d.ts</tspan>
-<tspan x="10" y="1722"> 98.  2017-04-20 18:15:15 +0000     6861 bytes  dist/lib/filter/textFilter.js</tspan>
-<tspan x="10" y="1738"> 99.  2017-04-20 18:15:15 +0000     1024 bytes  dist/lib/focusedCellController.d.ts</tspan>
-<tspan x="10" y="1754">100.  2017-04-20 18:15:15 +0000     8863 bytes  dist/lib/focusedCellController.js</tspan>
-<tspan x="10" y="1770">101.  2017-04-20 18:15:15 +0000      297 bytes  dist/lib/functions.d.ts</tspan>
-<tspan x="10" y="1786">102.  2017-04-20 18:15:15 +0000      948 bytes  dist/lib/functions.js</tspan>
-<tspan x="10" y="1802">103.  2017-04-20 18:15:15 +0000      949 bytes  dist/lib/grid.d.ts</tspan>
-<tspan x="10" y="1818">104.  2017-04-20 18:15:15 +0000    10095 bytes  dist/lib/grid.js</tspan>
-<tspan x="10" y="1834">105.  2017-04-20 18:15:15 +0000     8320 bytes  dist/lib/gridApi.d.ts</tspan>
-<tspan x="10" y="1850">106.  2017-04-20 18:15:15 +0000    35643 bytes  dist/lib/gridApi.js</tspan>
-<tspan x="10" y="1866">107.  2017-04-20 18:15:15 +0000     1418 bytes  dist/lib/gridCore.d.ts</tspan>
-<tspan x="10" y="1882">108.  2017-04-20 18:15:15 +0000    15922 bytes  dist/lib/gridCore.js</tspan>
-<tspan x="10" y="1898">109.  2017-04-20 18:15:15 +0000     8556 bytes  dist/lib/gridOptionsWrapper.d.ts</tspan>
-<tspan x="10" y="1914">110.  2017-04-20 18:15:15 +0000    35657 bytes  dist/lib/gridOptionsWrapper.js</tspan>
-<tspan x="10" y="1930">111.  2017-04-20 18:15:15 +0000     7085 bytes  dist/lib/gridPanel/gridPanel.d.ts</tspan>
-<tspan x="10" y="1946">112.  2017-04-20 18:15:15 +0000    81412 bytes  dist/lib/gridPanel/gridPanel.js</tspan>
-<tspan x="10" y="1962">113.  2017-04-20 18:15:15 +0000      467 bytes  dist/lib/gridPanel/mouseEventService.d.ts</tspan>
-<tspan x="10" y="1978">114.  2017-04-20 18:15:15 +0000     2400 bytes  dist/lib/gridPanel/mouseEventService.js</tspan>
-<tspan x="10" y="1994">115.  2017-04-20 18:15:15 +0000      823 bytes  dist/lib/gridPanel/scrollVisibleService.d.ts</tspan>
-<tspan x="10" y="2010">116.  2017-04-20 18:15:15 +0000     3749 bytes  dist/lib/gridPanel/scrollVisibleService.js</tspan>
-<tspan x="10" y="2026">117.  2017-04-20 18:15:15 +0000     4549 bytes  dist/lib/gridSerializer.d.ts</tspan>
-<tspan x="10" y="2042">118.  2017-04-20 18:15:15 +0000    13116 bytes  dist/lib/gridSerializer.js</tspan>
-<tspan x="10" y="2058">119.  2017-04-20 18:15:15 +0000      881 bytes  dist/lib/headerRendering/bodyDropPivotTarget.d.t\</tspan>
+<tspan x="10" y="1690"> 96.  2017-04-20 18:16:22 +0000      257 bytes  dist/lib/filter/textAndNumberFilterParameters.js</tspan>
+<tspan x="10" y="1706"> 97.  2017-04-20 18:16:22 +0000     1127 bytes  dist/lib/filter/textFilter.d.ts</tspan>
+<tspan x="10" y="1722"> 98.  2017-04-20 18:16:22 +0000     6861 bytes  dist/lib/filter/textFilter.js</tspan>
+<tspan x="10" y="1738"> 99.  2017-04-20 18:16:22 +0000     1024 bytes  dist/lib/focusedCellController.d.ts</tspan>
+<tspan x="10" y="1754">100.  2017-04-20 18:16:22 +0000     8863 bytes  dist/lib/focusedCellController.js</tspan>
+<tspan x="10" y="1770">101.  2017-04-20 18:16:22 +0000      297 bytes  dist/lib/functions.d.ts</tspan>
+<tspan x="10" y="1786">102.  2017-04-20 18:16:22 +0000      948 bytes  dist/lib/functions.js</tspan>
+<tspan x="10" y="1802">103.  2017-04-20 18:16:22 +0000      949 bytes  dist/lib/grid.d.ts</tspan>
+<tspan x="10" y="1818">104.  2017-04-20 18:16:22 +0000    10095 bytes  dist/lib/grid.js</tspan>
+<tspan x="10" y="1834">105.  2017-04-20 18:16:22 +0000     8320 bytes  dist/lib/gridApi.d.ts</tspan>
+<tspan x="10" y="1850">106.  2017-04-20 18:16:22 +0000    35643 bytes  dist/lib/gridApi.js</tspan>
+<tspan x="10" y="1866">107.  2017-04-20 18:16:22 +0000     1418 bytes  dist/lib/gridCore.d.ts</tspan>
+<tspan x="10" y="1882">108.  2017-04-20 18:16:22 +0000    15922 bytes  dist/lib/gridCore.js</tspan>
+<tspan x="10" y="1898">109.  2017-04-20 18:16:22 +0000     8556 bytes  dist/lib/gridOptionsWrapper.d.ts</tspan>
+<tspan x="10" y="1914">110.  2017-04-20 18:16:22 +0000    35657 bytes  dist/lib/gridOptionsWrapper.js</tspan>
+<tspan x="10" y="1930">111.  2017-04-20 18:16:22 +0000     7085 bytes  dist/lib/gridPanel/gridPanel.d.ts</tspan>
+<tspan x="10" y="1946">112.  2017-04-20 18:16:22 +0000    81412 bytes  dist/lib/gridPanel/gridPanel.js</tspan>
+<tspan x="10" y="1962">113.  2017-04-20 18:16:22 +0000      467 bytes  dist/lib/gridPanel/mouseEventService.d.ts</tspan>
+<tspan x="10" y="1978">114.  2017-04-20 18:16:22 +0000     2400 bytes  dist/lib/gridPanel/mouseEventService.js</tspan>
+<tspan x="10" y="1994">115.  2017-04-20 18:16:22 +0000      823 bytes  dist/lib/gridPanel/scrollVisibleService.d.ts</tspan>
+<tspan x="10" y="2010">116.  2017-04-20 18:16:22 +0000     3749 bytes  dist/lib/gridPanel/scrollVisibleService.js</tspan>
+<tspan x="10" y="2026">117.  2017-04-20 18:16:22 +0000     4549 bytes  dist/lib/gridSerializer.d.ts</tspan>
+<tspan x="10" y="2042">118.  2017-04-20 18:16:22 +0000    13116 bytes  dist/lib/gridSerializer.js</tspan>
+<tspan x="10" y="2058">119.  2017-04-20 18:16:22 +0000      881 bytes  dist/lib/headerRendering/bodyDropPivotTarget.d.t\</tspan>
 <tspan x="10" y="2074">s</tspan>
-<tspan x="10" y="2090">120.  2017-04-20 18:15:15 +0000     4485 bytes  dist/lib/headerRendering/bodyDropPivotTarget.js</tspan>
-<tspan x="10" y="2106">121.  2017-04-20 18:15:15 +0000      987 bytes  dist/lib/headerRendering/bodyDropTarget.d.ts</tspan>
-<tspan x="10" y="2122">122.  2017-04-20 18:15:15 +0000     5590 bytes  dist/lib/headerRendering/bodyDropTarget.js</tspan>
-<tspan x="10" y="2138">123.  2017-04-20 18:15:15 +0000     1124 bytes  dist/lib/headerRendering/cssClassApplier.d.ts</tspan>
-<tspan x="10" y="2154">124.  2017-04-20 18:15:15 +0000     2449 bytes  dist/lib/headerRendering/cssClassApplier.js</tspan>
-<tspan x="10" y="2170">125.  2017-04-20 18:15:15 +0000      504 bytes  dist/lib/headerRendering/deprecated/headerTempla\</tspan>
+<tspan x="10" y="2090">120.  2017-04-20 18:16:22 +0000     4485 bytes  dist/lib/headerRendering/bodyDropPivotTarget.js</tspan>
+<tspan x="10" y="2106">121.  2017-04-20 18:16:22 +0000      987 bytes  dist/lib/headerRendering/bodyDropTarget.d.ts</tspan>
+<tspan x="10" y="2122">122.  2017-04-20 18:16:22 +0000     5590 bytes  dist/lib/headerRendering/bodyDropTarget.js</tspan>
+<tspan x="10" y="2138">123.  2017-04-20 18:16:22 +0000     1124 bytes  dist/lib/headerRendering/cssClassApplier.d.ts</tspan>
+<tspan x="10" y="2154">124.  2017-04-20 18:16:22 +0000     2449 bytes  dist/lib/headerRendering/cssClassApplier.js</tspan>
+<tspan x="10" y="2170">125.  2017-04-20 18:16:22 +0000      504 bytes  dist/lib/headerRendering/deprecated/headerTempla\</tspan>
 <tspan x="10" y="2186">teLoader.d.ts</tspan>
-<tspan x="10" y="2202">126.  2017-04-20 18:15:15 +0000     5433 bytes  dist/lib/headerRendering/deprecated/headerTempla\</tspan>
+<tspan x="10" y="2202">126.  2017-04-20 18:16:22 +0000     5433 bytes  dist/lib/headerRendering/deprecated/headerTempla\</tspan>
 <tspan x="10" y="2218">teLoader.js</tspan>
-<tspan x="10" y="2234">127.  2017-04-20 18:15:15 +0000     1844 bytes  dist/lib/headerRendering/deprecated/renderedHead\</tspan>
+<tspan x="10" y="2234">127.  2017-04-20 18:16:22 +0000     1844 bytes  dist/lib/headerRendering/deprecated/renderedHead\</tspan>
 <tspan x="10" y="2250">erCell.d.ts</tspan>
-<tspan x="10" y="2266">128.  2017-04-20 18:15:15 +0000    19026 bytes  dist/lib/headerRendering/deprecated/renderedHead\</tspan>
+<tspan x="10" y="2266">128.  2017-04-20 18:16:22 +0000    19026 bytes  dist/lib/headerRendering/deprecated/renderedHead\</tspan>
 <tspan x="10" y="2282">erCell.js</tspan>
-<tspan x="10" y="2298">129.  2017-04-20 18:15:15 +0000     1710 bytes  dist/lib/headerRendering/header/headerComp.d.ts</tspan>
-<tspan x="10" y="2314">130.  2017-04-20 18:15:15 +0000    11718 bytes  dist/lib/headerRendering/header/headerComp.js</tspan>
-<tspan x="10" y="2330">131.  2017-04-20 18:15:15 +0000     1653 bytes  dist/lib/headerRendering/header/headerWrapperCom\</tspan>
+<tspan x="10" y="2298">129.  2017-04-20 18:16:22 +0000     1710 bytes  dist/lib/headerRendering/header/headerComp.d.ts</tspan>
+<tspan x="10" y="2314">130.  2017-04-20 18:16:22 +0000    11718 bytes  dist/lib/headerRendering/header/headerComp.js</tspan>
+<tspan x="10" y="2330">131.  2017-04-20 18:16:22 +0000     1653 bytes  dist/lib/headerRendering/header/headerWrapperCom\</tspan>
 <tspan x="10" y="2346">p.d.ts</tspan>
-<tspan x="10" y="2362">132.  2017-04-20 18:15:15 +0000    14214 bytes  dist/lib/headerRendering/header/headerWrapperCom\</tspan>
+<tspan x="10" y="2362">132.  2017-04-20 18:16:22 +0000    14214 bytes  dist/lib/headerRendering/header/headerWrapperCom\</tspan>
 <tspan x="10" y="2378">p.js</tspan>
-<tspan x="10" y="2394">133.  2017-04-20 18:15:15 +0000     1027 bytes  dist/lib/headerRendering/header/selectAllFeature\</tspan>
+<tspan x="10" y="2394">133.  2017-04-20 18:16:22 +0000     1027 bytes  dist/lib/headerRendering/header/selectAllFeature\</tspan>
 <tspan x="10" y="2410">.d.ts</tspan>
-<tspan x="10" y="2426">134.  2017-04-20 18:15:15 +0000     8328 bytes  dist/lib/headerRendering/header/selectAllFeature\</tspan>
+<tspan x="10" y="2426">134.  2017-04-20 18:16:22 +0000     8328 bytes  dist/lib/headerRendering/header/selectAllFeature\</tspan>
 <tspan x="10" y="2442">.js</tspan>
-<tspan x="10" y="2458">135.  2017-04-20 18:15:15 +0000     1203 bytes  dist/lib/headerRendering/headerContainer.d.ts</tspan>
-<tspan x="10" y="2474">136.  2017-04-20 18:15:15 +0000     8725 bytes  dist/lib/headerRendering/headerContainer.js</tspan>
-<tspan x="10" y="2490">137.  2017-04-20 18:15:15 +0000     1323 bytes  dist/lib/headerRendering/headerGroup/headerGroup\</tspan>
+<tspan x="10" y="2458">135.  2017-04-20 18:16:22 +0000     1203 bytes  dist/lib/headerRendering/headerContainer.d.ts</tspan>
+<tspan x="10" y="2474">136.  2017-04-20 18:16:22 +0000     8725 bytes  dist/lib/headerRendering/headerContainer.js</tspan>
+<tspan x="10" y="2490">137.  2017-04-20 18:16:22 +0000     1323 bytes  dist/lib/headerRendering/headerGroup/headerGroup\</tspan>
 <tspan x="10" y="2506">Comp.d.ts</tspan>
-<tspan x="10" y="2522">138.  2017-04-20 18:15:15 +0000     6511 bytes  dist/lib/headerRendering/headerGroup/headerGroup\</tspan>
+<tspan x="10" y="2522">138.  2017-04-20 18:16:22 +0000     6511 bytes  dist/lib/headerRendering/headerGroup/headerGroup\</tspan>
 <tspan x="10" y="2538">Comp.js</tspan>
-<tspan x="10" y="2554">139.  2017-04-20 18:15:15 +0000     1618 bytes  dist/lib/headerRendering/headerGroup/headerGroup\</tspan>
+<tspan x="10" y="2554">139.  2017-04-20 18:16:22 +0000     1618 bytes  dist/lib/headerRendering/headerGroup/headerGroup\</tspan>
 <tspan x="10" y="2570">WrapperComp.d.ts</tspan>
-<tspan x="10" y="2586">140.  2017-04-20 18:15:15 +0000    15592 bytes  dist/lib/headerRendering/headerGroup/headerGroup\</tspan>
+<tspan x="10" y="2586">140.  2017-04-20 18:16:22 +0000    15592 bytes  dist/lib/headerRendering/headerGroup/headerGroup\</tspan>
 <tspan x="10" y="2602">WrapperComp.js</tspan>
-<tspan x="10" y="2618">141.  2017-04-20 18:15:15 +0000      892 bytes  dist/lib/headerRendering/headerRenderer.d.ts</tspan>
-<tspan x="10" y="2634">142.  2017-04-20 18:15:15 +0000     7378 bytes  dist/lib/headerRendering/headerRenderer.js</tspan>
-<tspan x="10" y="2650">143.  2017-04-20 18:15:15 +0000     1500 bytes  dist/lib/headerRendering/headerRowComp.d.ts</tspan>
-<tspan x="10" y="2666">144.  2017-04-20 18:15:15 +0000    13581 bytes  dist/lib/headerRendering/headerRowComp.js</tspan>
-<tspan x="10" y="2682">145.  2017-04-20 18:15:15 +0000      594 bytes  dist/lib/headerRendering/horizontalDragService.d\</tspan>
+<tspan x="10" y="2618">141.  2017-04-20 18:16:22 +0000      892 bytes  dist/lib/headerRendering/headerRenderer.d.ts</tspan>
+<tspan x="10" y="2634">142.  2017-04-20 18:16:22 +0000     7378 bytes  dist/lib/headerRendering/headerRenderer.js</tspan>
+<tspan x="10" y="2650">143.  2017-04-20 18:16:22 +0000     1500 bytes  dist/lib/headerRendering/headerRowComp.d.ts</tspan>
+<tspan x="10" y="2666">144.  2017-04-20 18:16:22 +0000    13581 bytes  dist/lib/headerRendering/headerRowComp.js</tspan>
+<tspan x="10" y="2682">145.  2017-04-20 18:16:22 +0000      594 bytes  dist/lib/headerRendering/horizontalDragService.d\</tspan>
 <tspan x="10" y="2698">.ts</tspan>
-<tspan x="10" y="2714">146.  2017-04-20 18:15:15 +0000     5389 bytes  dist/lib/headerRendering/horizontalDragService.j\</tspan>
+<tspan x="10" y="2714">146.  2017-04-20 18:16:22 +0000     5389 bytes  dist/lib/headerRendering/horizontalDragService.j\</tspan>
 <tspan x="10" y="2730">s</tspan>
-<tspan x="10" y="2746">147.  2017-04-20 18:15:15 +0000     1567 bytes  dist/lib/headerRendering/moveColumnController.d.\</tspan>
+<tspan x="10" y="2746">147.  2017-04-20 18:16:22 +0000     1567 bytes  dist/lib/headerRendering/moveColumnController.d.\</tspan>
 <tspan x="10" y="2762">ts</tspan>
-<tspan x="10" y="2778">148.  2017-04-20 18:15:15 +0000    14556 bytes  dist/lib/headerRendering/moveColumnController.js</tspan>
-<tspan x="10" y="2794">149.  2017-04-20 18:15:15 +0000      711 bytes  dist/lib/headerRendering/standardMenu.d.ts</tspan>
-<tspan x="10" y="2810">150.  2017-04-20 18:15:15 +0000     4463 bytes  dist/lib/headerRendering/standardMenu.js</tspan>
-<tspan x="10" y="2826">151.  2017-04-20 18:15:15 +0000      198 bytes  dist/lib/iLogger.d.ts</tspan>
-<tspan x="10" y="2842">152.  2017-04-20 18:15:15 +0000      257 bytes  dist/lib/iLogger.js</tspan>
-<tspan x="10" y="2858">153.  2017-04-20 18:15:15 +0000      402 bytes  dist/lib/interfaces/iAggFuncService.d.ts</tspan>
-<tspan x="10" y="2874">154.  2017-04-20 18:15:15 +0000      257 bytes  dist/lib/interfaces/iAggFuncService.js</tspan>
-<tspan x="10" y="2890">155.  2017-04-20 18:15:15 +0000      549 bytes  dist/lib/interfaces/iClipboardService.d.ts</tspan>
-<tspan x="10" y="2906">156.  2017-04-20 18:15:15 +0000      257 bytes  dist/lib/interfaces/iClipboardService.js</tspan>
-<tspan x="10" y="2922">157.  2017-04-20 18:15:15 +0000      246 bytes  dist/lib/interfaces/iCompFactory.d.ts</tspan>
-<tspan x="10" y="2938">158.  2017-04-20 18:15:15 +0000      257 bytes  dist/lib/interfaces/iCompFactory.js</tspan>
-<tspan x="10" y="2954">159.  2017-04-20 18:15:15 +0000     1279 bytes  dist/lib/interfaces/iComponent.d.ts</tspan>
-<tspan x="10" y="2970">160.  2017-04-20 18:15:15 +0000      257 bytes  dist/lib/interfaces/iComponent.js</tspan>
-<tspan x="10" y="2986">161.  2017-04-20 18:15:15 +0000      357 bytes  dist/lib/interfaces/iContextMenuFactory.d.ts</tspan>
-<tspan x="10" y="3002">162.  2017-04-20 18:15:15 +0000      257 bytes  dist/lib/interfaces/iContextMenuFactory.js</tspan>
-<tspan x="10" y="3018">163.  2017-04-20 18:15:15 +0000      175 bytes  dist/lib/interfaces/iEnterpriseCache.d.ts</tspan>
-<tspan x="10" y="3034">164.  2017-04-20 18:15:15 +0000      257 bytes  dist/lib/interfaces/iEnterpriseCache.js</tspan>
-<tspan x="10" y="3050">165.  2017-04-20 18:15:15 +0000      675 bytes  dist/lib/interfaces/iEnterpriseDatasource.d.ts</tspan>
-<tspan x="10" y="3066">166.  2017-04-20 18:15:15 +0000      257 bytes  dist/lib/interfaces/iEnterpriseDatasource.js</tspan>
-<tspan x="10" y="3082">167.  2017-04-20 18:15:15 +0000      309 bytes  dist/lib/interfaces/iEventEmitter.d.ts</tspan>
-<tspan x="10" y="3098">168.  2017-04-20 18:15:15 +0000      257 bytes  dist/lib/interfaces/iEventEmitter.js</tspan>
-<tspan x="10" y="3114">169.  2017-04-20 18:15:15 +0000      335 bytes  dist/lib/interfaces/iExcelCreator.d.ts</tspan>
-<tspan x="10" y="3130">170.  2017-04-20 18:15:15 +0000      257 bytes  dist/lib/interfaces/iExcelCreator.js</tspan>
-<tspan x="10" y="3146">171.  2017-04-20 18:15:15 +0000     3207 bytes  dist/lib/interfaces/iFilter.d.ts</tspan>
-<tspan x="10" y="3162">172.  2017-04-20 18:15:15 +0000      257 bytes  dist/lib/interfaces/iFilter.js</tspan>
-<tspan x="10" y="3178">173.  2017-04-20 18:15:15 +0000     1564 bytes  dist/lib/interfaces/iFrameworkFactory.d.ts</tspan>
-<tspan x="10" y="3194">174.  2017-04-20 18:15:15 +0000      257 bytes  dist/lib/interfaces/iFrameworkFactory.js</tspan>
-<tspan x="10" y="3210">175.  2017-04-20 18:15:15 +0000     1465 bytes  dist/lib/interfaces/iInMemoryRowModel.d.ts</tspan>
-<tspan x="10" y="3226">176.  2017-04-20 18:15:15 +0000      257 bytes  dist/lib/interfaces/iInMemoryRowModel.js</tspan>
-<tspan x="10" y="3242">177.  2017-04-20 18:15:15 +0000      164 bytes  dist/lib/interfaces/iMenu.d.ts</tspan>
-<tspan x="10" y="3258">178.  2017-04-20 18:15:15 +0000      257 bytes  dist/lib/interfaces/iMenu.js</tspan>
-<tspan x="10" y="3274">179.  2017-04-20 18:15:15 +0000      463 bytes  dist/lib/interfaces/iMenuFactory.d.ts</tspan>
-<tspan x="10" y="3290">180.  2017-04-20 18:15:15 +0000      257 bytes  dist/lib/interfaces/iMenuFactory.js</tspan>
-<tspan x="10" y="3306">181.  2017-04-20 18:15:15 +0000     1078 bytes  dist/lib/interfaces/iRangeController.d.ts</tspan>
-<tspan x="10" y="3322">182.  2017-04-20 18:15:15 +0000      257 bytes  dist/lib/interfaces/iRangeController.js</tspan>
-<tspan x="10" y="3338">183.  2017-04-20 18:15:15 +0000     2565 bytes  dist/lib/interfaces/iRowModel.d.ts</tspan>
-<tspan x="10" y="3354">184.  2017-04-20 18:15:15 +0000      257 bytes  dist/lib/interfaces/iRowModel.js</tspan>
-<tspan x="10" y="3370">185.  2017-04-20 18:15:15 +0000      356 bytes  dist/lib/interfaces/iRowNodeStage.d.ts</tspan>
-<tspan x="10" y="3386">186.  2017-04-20 18:15:15 +0000      257 bytes  dist/lib/interfaces/iRowNodeStage.js</tspan>
-<tspan x="10" y="3402">187.  2017-04-20 18:15:15 +0000      698 bytes  dist/lib/interfaces/iSetFilterParams.d.ts</tspan>
-<tspan x="10" y="3418">188.  2017-04-20 18:15:15 +0000      257 bytes  dist/lib/interfaces/iSetFilterParams.js</tspan>
-<tspan x="10" y="3434">189.  2017-04-20 18:15:15 +0000     1287 bytes  dist/lib/interfaces/iViewportDatasource.d.ts</tspan>
-<tspan x="10" y="3450">190.  2017-04-20 18:15:15 +0000      257 bytes  dist/lib/interfaces/iViewportDatasource.js</tspan>
-<tspan x="10" y="3466">191.  2017-04-20 18:15:15 +0000     1520 bytes  dist/lib/layout/borderLayout.d.ts</tspan>
-<tspan x="10" y="3482">192.  2017-04-20 18:15:15 +0000     9891 bytes  dist/lib/layout/borderLayout.js</tspan>
-<tspan x="10" y="3498">193.  2017-04-20 18:15:15 +0000      907 bytes  dist/lib/layout/tabbedLayout.d.ts</tspan>
-<tspan x="10" y="3514">194.  2017-04-20 18:15:15 +0000     4016 bytes  dist/lib/layout/tabbedLayout.js</tspan>
-<tspan x="10" y="3530">195.  2017-04-20 18:15:15 +0000      342 bytes  dist/lib/layout/verticalStack.d.ts</tspan>
-<tspan x="10" y="3546">196.  2017-04-20 18:15:15 +0000     1214 bytes  dist/lib/layout/verticalStack.js</tspan>
-<tspan x="10" y="3562">197.  2017-04-20 18:15:15 +0000      425 bytes  dist/lib/logger.d.ts</tspan>
-<tspan x="10" y="3578">198.  2017-04-20 18:15:15 +0000     2399 bytes  dist/lib/logger.js</tspan>
-<tspan x="10" y="3594">199.  2017-04-20 18:15:15 +0000      868 bytes  dist/lib/masterSlaveService.d.ts</tspan>
-<tspan x="10" y="3610">200.  2017-04-20 18:15:15 +0000    10352 bytes  dist/lib/masterSlaveService.js</tspan>
-<tspan x="10" y="3626">201.  2017-04-20 18:15:15 +0000      674 bytes  dist/lib/misc/focusService.d.ts</tspan>
-<tspan x="10" y="3642">202.  2017-04-20 18:15:15 +0000     5640 bytes  dist/lib/misc/focusService.js</tspan>
-<tspan x="10" y="3658">203.  2017-04-20 18:15:15 +0000      192 bytes  dist/lib/misc/methodNotImplementedException.d.ts</tspan>
-<tspan x="10" y="3674">204.  2017-04-20 18:15:15 +0000      480 bytes  dist/lib/misc/methodNotImplementedException.js</tspan>
-<tspan x="10" y="3690">205.  2017-04-20 18:15:15 +0000      416 bytes  dist/lib/misc/simpleHttpRequest.d.ts</tspan>
-<tspan x="10" y="3706">206.  2017-04-20 18:15:15 +0000     1087 bytes  dist/lib/misc/simpleHttpRequest.js</tspan>
-<tspan x="10" y="3722">207.  2017-04-20 18:15:15 +0000      613 bytes  dist/lib/rendering/autoWidthCalculator.d.ts</tspan>
-<tspan x="10" y="3738">208.  2017-04-20 18:15:15 +0000     7250 bytes  dist/lib/rendering/autoWidthCalculator.js</tspan>
-<tspan x="10" y="3754">209.  2017-04-20 18:15:15 +0000      721 bytes  dist/lib/rendering/cellEditorFactory.d.ts</tspan>
-<tspan x="10" y="3770">210.  2017-04-20 18:15:15 +0000     5139 bytes  dist/lib/rendering/cellEditorFactory.js</tspan>
-<tspan x="10" y="3786">211.  2017-04-20 18:15:15 +0000     3162 bytes  dist/lib/rendering/cellEditors/iCellEditor.d.ts</tspan>
-<tspan x="10" y="3802">212.  2017-04-20 18:15:15 +0000      257 bytes  dist/lib/rendering/cellEditors/iCellEditor.js</tspan>
-<tspan x="10" y="3818">213.  2017-04-20 18:15:15 +0000     1003 bytes  dist/lib/rendering/cellEditors/largeTextCellEdit\</tspan>
+<tspan x="10" y="2778">148.  2017-04-20 18:16:22 +0000    14556 bytes  dist/lib/headerRendering/moveColumnController.js</tspan>
+<tspan x="10" y="2794">149.  2017-04-20 18:16:22 +0000      711 bytes  dist/lib/headerRendering/standardMenu.d.ts</tspan>
+<tspan x="10" y="2810">150.  2017-04-20 18:16:22 +0000     4463 bytes  dist/lib/headerRendering/standardMenu.js</tspan>
+<tspan x="10" y="2826">151.  2017-04-20 18:16:22 +0000      198 bytes  dist/lib/iLogger.d.ts</tspan>
+<tspan x="10" y="2842">152.  2017-04-20 18:16:22 +0000      257 bytes  dist/lib/iLogger.js</tspan>
+<tspan x="10" y="2858">153.  2017-04-20 18:16:22 +0000      402 bytes  dist/lib/interfaces/iAggFuncService.d.ts</tspan>
+<tspan x="10" y="2874">154.  2017-04-20 18:16:22 +0000      257 bytes  dist/lib/interfaces/iAggFuncService.js</tspan>
+<tspan x="10" y="2890">155.  2017-04-20 18:16:22 +0000      549 bytes  dist/lib/interfaces/iClipboardService.d.ts</tspan>
+<tspan x="10" y="2906">156.  2017-04-20 18:16:22 +0000      257 bytes  dist/lib/interfaces/iClipboardService.js</tspan>
+<tspan x="10" y="2922">157.  2017-04-20 18:16:22 +0000      246 bytes  dist/lib/interfaces/iCompFactory.d.ts</tspan>
+<tspan x="10" y="2938">158.  2017-04-20 18:16:22 +0000      257 bytes  dist/lib/interfaces/iCompFactory.js</tspan>
+<tspan x="10" y="2954">159.  2017-04-20 18:16:22 +0000     1279 bytes  dist/lib/interfaces/iComponent.d.ts</tspan>
+<tspan x="10" y="2970">160.  2017-04-20 18:16:22 +0000      257 bytes  dist/lib/interfaces/iComponent.js</tspan>
+<tspan x="10" y="2986">161.  2017-04-20 18:16:22 +0000      357 bytes  dist/lib/interfaces/iContextMenuFactory.d.ts</tspan>
+<tspan x="10" y="3002">162.  2017-04-20 18:16:22 +0000      257 bytes  dist/lib/interfaces/iContextMenuFactory.js</tspan>
+<tspan x="10" y="3018">163.  2017-04-20 18:16:22 +0000      175 bytes  dist/lib/interfaces/iEnterpriseCache.d.ts</tspan>
+<tspan x="10" y="3034">164.  2017-04-20 18:16:22 +0000      257 bytes  dist/lib/interfaces/iEnterpriseCache.js</tspan>
+<tspan x="10" y="3050">165.  2017-04-20 18:16:22 +0000      675 bytes  dist/lib/interfaces/iEnterpriseDatasource.d.ts</tspan>
+<tspan x="10" y="3066">166.  2017-04-20 18:16:22 +0000      257 bytes  dist/lib/interfaces/iEnterpriseDatasource.js</tspan>
+<tspan x="10" y="3082">167.  2017-04-20 18:16:22 +0000      309 bytes  dist/lib/interfaces/iEventEmitter.d.ts</tspan>
+<tspan x="10" y="3098">168.  2017-04-20 18:16:22 +0000      257 bytes  dist/lib/interfaces/iEventEmitter.js</tspan>
+<tspan x="10" y="3114">169.  2017-04-20 18:16:22 +0000      335 bytes  dist/lib/interfaces/iExcelCreator.d.ts</tspan>
+<tspan x="10" y="3130">170.  2017-04-20 18:16:22 +0000      257 bytes  dist/lib/interfaces/iExcelCreator.js</tspan>
+<tspan x="10" y="3146">171.  2017-04-20 18:16:22 +0000     3207 bytes  dist/lib/interfaces/iFilter.d.ts</tspan>
+<tspan x="10" y="3162">172.  2017-04-20 18:16:22 +0000      257 bytes  dist/lib/interfaces/iFilter.js</tspan>
+<tspan x="10" y="3178">173.  2017-04-20 18:16:22 +0000     1564 bytes  dist/lib/interfaces/iFrameworkFactory.d.ts</tspan>
+<tspan x="10" y="3194">174.  2017-04-20 18:16:22 +0000      257 bytes  dist/lib/interfaces/iFrameworkFactory.js</tspan>
+<tspan x="10" y="3210">175.  2017-04-20 18:16:22 +0000     1465 bytes  dist/lib/interfaces/iInMemoryRowModel.d.ts</tspan>
+<tspan x="10" y="3226">176.  2017-04-20 18:16:22 +0000      257 bytes  dist/lib/interfaces/iInMemoryRowModel.js</tspan>
+<tspan x="10" y="3242">177.  2017-04-20 18:16:22 +0000      164 bytes  dist/lib/interfaces/iMenu.d.ts</tspan>
+<tspan x="10" y="3258">178.  2017-04-20 18:16:22 +0000      257 bytes  dist/lib/interfaces/iMenu.js</tspan>
+<tspan x="10" y="3274">179.  2017-04-20 18:16:22 +0000      463 bytes  dist/lib/interfaces/iMenuFactory.d.ts</tspan>
+<tspan x="10" y="3290">180.  2017-04-20 18:16:22 +0000      257 bytes  dist/lib/interfaces/iMenuFactory.js</tspan>
+<tspan x="10" y="3306">181.  2017-04-20 18:16:22 +0000     1078 bytes  dist/lib/interfaces/iRangeController.d.ts</tspan>
+<tspan x="10" y="3322">182.  2017-04-20 18:16:22 +0000      257 bytes  dist/lib/interfaces/iRangeController.js</tspan>
+<tspan x="10" y="3338">183.  2017-04-20 18:16:22 +0000     2565 bytes  dist/lib/interfaces/iRowModel.d.ts</tspan>
+<tspan x="10" y="3354">184.  2017-04-20 18:16:22 +0000      257 bytes  dist/lib/interfaces/iRowModel.js</tspan>
+<tspan x="10" y="3370">185.  2017-04-20 18:16:22 +0000      356 bytes  dist/lib/interfaces/iRowNodeStage.d.ts</tspan>
+<tspan x="10" y="3386">186.  2017-04-20 18:16:22 +0000      257 bytes  dist/lib/interfaces/iRowNodeStage.js</tspan>
+<tspan x="10" y="3402">187.  2017-04-20 18:16:22 +0000      698 bytes  dist/lib/interfaces/iSetFilterParams.d.ts</tspan>
+<tspan x="10" y="3418">188.  2017-04-20 18:16:22 +0000      257 bytes  dist/lib/interfaces/iSetFilterParams.js</tspan>
+<tspan x="10" y="3434">189.  2017-04-20 18:16:22 +0000     1287 bytes  dist/lib/interfaces/iViewportDatasource.d.ts</tspan>
+<tspan x="10" y="3450">190.  2017-04-20 18:16:22 +0000      257 bytes  dist/lib/interfaces/iViewportDatasource.js</tspan>
+<tspan x="10" y="3466">191.  2017-04-20 18:16:22 +0000     1520 bytes  dist/lib/layout/borderLayout.d.ts</tspan>
+<tspan x="10" y="3482">192.  2017-04-20 18:16:22 +0000     9891 bytes  dist/lib/layout/borderLayout.js</tspan>
+<tspan x="10" y="3498">193.  2017-04-20 18:16:22 +0000      907 bytes  dist/lib/layout/tabbedLayout.d.ts</tspan>
+<tspan x="10" y="3514">194.  2017-04-20 18:16:22 +0000     4016 bytes  dist/lib/layout/tabbedLayout.js</tspan>
+<tspan x="10" y="3530">195.  2017-04-20 18:16:22 +0000      342 bytes  dist/lib/layout/verticalStack.d.ts</tspan>
+<tspan x="10" y="3546">196.  2017-04-20 18:16:22 +0000     1214 bytes  dist/lib/layout/verticalStack.js</tspan>
+<tspan x="10" y="3562">197.  2017-04-20 18:16:22 +0000      425 bytes  dist/lib/logger.d.ts</tspan>
+<tspan x="10" y="3578">198.  2017-04-20 18:16:22 +0000     2399 bytes  dist/lib/logger.js</tspan>
+<tspan x="10" y="3594">199.  2017-04-20 18:16:22 +0000      868 bytes  dist/lib/masterSlaveService.d.ts</tspan>
+<tspan x="10" y="3610">200.  2017-04-20 18:16:22 +0000    10352 bytes  dist/lib/masterSlaveService.js</tspan>
+<tspan x="10" y="3626">201.  2017-04-20 18:16:22 +0000      674 bytes  dist/lib/misc/focusService.d.ts</tspan>
+<tspan x="10" y="3642">202.  2017-04-20 18:16:22 +0000     5640 bytes  dist/lib/misc/focusService.js</tspan>
+<tspan x="10" y="3658">203.  2017-04-20 18:16:22 +0000      192 bytes  dist/lib/misc/methodNotImplementedException.d.ts</tspan>
+<tspan x="10" y="3674">204.  2017-04-20 18:16:22 +0000      480 bytes  dist/lib/misc/methodNotImplementedException.js</tspan>
+<tspan x="10" y="3690">205.  2017-04-20 18:16:22 +0000      416 bytes  dist/lib/misc/simpleHttpRequest.d.ts</tspan>
+<tspan x="10" y="3706">206.  2017-04-20 18:16:22 +0000     1087 bytes  dist/lib/misc/simpleHttpRequest.js</tspan>
+<tspan x="10" y="3722">207.  2017-04-20 18:16:22 +0000      613 bytes  dist/lib/rendering/autoWidthCalculator.d.ts</tspan>
+<tspan x="10" y="3738">208.  2017-04-20 18:16:22 +0000     7250 bytes  dist/lib/rendering/autoWidthCalculator.js</tspan>
+<tspan x="10" y="3754">209.  2017-04-20 18:16:22 +0000      721 bytes  dist/lib/rendering/cellEditorFactory.d.ts</tspan>
+<tspan x="10" y="3770">210.  2017-04-20 18:16:22 +0000     5139 bytes  dist/lib/rendering/cellEditorFactory.js</tspan>
+<tspan x="10" y="3786">211.  2017-04-20 18:16:22 +0000     3162 bytes  dist/lib/rendering/cellEditors/iCellEditor.d.ts</tspan>
+<tspan x="10" y="3802">212.  2017-04-20 18:16:22 +0000      257 bytes  dist/lib/rendering/cellEditors/iCellEditor.js</tspan>
+<tspan x="10" y="3818">213.  2017-04-20 18:16:22 +0000     1003 bytes  dist/lib/rendering/cellEditors/largeTextCellEdit\</tspan>
 <tspan x="10" y="3834">or.d.ts</tspan>
-<tspan x="10" y="3850">214.  2017-04-20 18:15:15 +0000     2913 bytes  dist/lib/rendering/cellEditors/largeTextCellEdit\</tspan>
+<tspan x="10" y="3850">214.  2017-04-20 18:16:22 +0000     2913 bytes  dist/lib/rendering/cellEditors/largeTextCellEdit\</tspan>
 <tspan x="10" y="3866">or.js</tspan>
-<tspan x="10" y="3882">215.  2017-04-20 18:15:15 +0000      757 bytes  dist/lib/rendering/cellEditors/popupEditorWrappe\</tspan>
+<tspan x="10" y="3882">215.  2017-04-20 18:16:22 +0000      757 bytes  dist/lib/rendering/cellEditors/popupEditorWrappe\</tspan>
 <tspan x="10" y="3898">r.d.ts</tspan>
-<tspan x="10" y="3914">216.  2017-04-20 18:15:15 +0000     3299 bytes  dist/lib/rendering/cellEditors/popupEditorWrappe\</tspan>
+<tspan x="10" y="3914">216.  2017-04-20 18:16:22 +0000     3299 bytes  dist/lib/rendering/cellEditors/popupEditorWrappe\</tspan>
 <tspan x="10" y="3930">r.js</tspan>
-<tspan x="10" y="3946">217.  2017-04-20 18:15:15 +0000      288 bytes  dist/lib/rendering/cellEditors/popupSelectCellEd\</tspan>
+<tspan x="10" y="3946">217.  2017-04-20 18:16:22 +0000      288 bytes  dist/lib/rendering/cellEditors/popupSelectCellEd\</tspan>
 <tspan x="10" y="3962">itor.d.ts</tspan>
-<tspan x="10" y="3978">218.  2017-04-20 18:15:15 +0000     1237 bytes  dist/lib/rendering/cellEditors/popupSelectCellEd\</tspan>
+<tspan x="10" y="3978">218.  2017-04-20 18:16:22 +0000     1237 bytes  dist/lib/rendering/cellEditors/popupSelectCellEd\</tspan>
 <tspan x="10" y="3994">itor.js</tspan>
-<tspan x="10" y="4010">219.  2017-04-20 18:15:15 +0000      280 bytes  dist/lib/rendering/cellEditors/popupTextCellEdit\</tspan>
+<tspan x="10" y="4010">219.  2017-04-20 18:16:22 +0000      280 bytes  dist/lib/rendering/cellEditors/popupTextCellEdit\</tspan>
 <tspan x="10" y="4026">or.d.ts</tspan>
-<tspan x="10" y="4042">220.  2017-04-20 18:15:15 +0000     1215 bytes  dist/lib/rendering/cellEditors/popupTextCellEdit\</tspan>
+<tspan x="10" y="4042">220.  2017-04-20 18:16:22 +0000     1215 bytes  dist/lib/rendering/cellEditors/popupTextCellEdit\</tspan>
 <tspan x="10" y="4058">or.js</tspan>
-<tspan x="10" y="4074">221.  2017-04-20 18:15:15 +0000      499 bytes  dist/lib/rendering/cellEditors/selectCellEditor.\</tspan>
+<tspan x="10" y="4074">221.  2017-04-20 18:16:22 +0000      499 bytes  dist/lib/rendering/cellEditors/selectCellEditor.\</tspan>
 <tspan x="10" y="4090">d.ts</tspan>
-<tspan x="10" y="4106">222.  2017-04-20 18:15:15 +0000     2874 bytes  dist/lib/rendering/cellEditors/selectCellEditor.\</tspan>
+<tspan x="10" y="4106">222.  2017-04-20 18:16:22 +0000     2874 bytes  dist/lib/rendering/cellEditors/selectCellEditor.\</tspan>
 <tspan x="10" y="4122">js</tspan>
-<tspan x="10" y="4138">223.  2017-04-20 18:15:15 +0000      571 bytes  dist/lib/rendering/cellEditors/textCellEditor.d.\</tspan>
+<tspan x="10" y="4138">223.  2017-04-20 18:16:22 +0000      571 bytes  dist/lib/rendering/cellEditors/textCellEditor.d.\</tspan>
 <tspan x="10" y="4154">ts</tspan>
-<tspan x="10" y="4170">224.  2017-04-20 18:15:15 +0000     3801 bytes  dist/lib/rendering/cellEditors/textCellEditor.js</tspan>
-<tspan x="10" y="4186">225.  2017-04-20 18:15:15 +0000      710 bytes  dist/lib/rendering/cellRendererFactory.d.ts</tspan>
-<tspan x="10" y="4202">226.  2017-04-20 18:15:15 +0000     4099 bytes  dist/lib/rendering/cellRendererFactory.js</tspan>
-<tspan x="10" y="4218">227.  2017-04-20 18:15:15 +0000     1223 bytes  dist/lib/rendering/cellRendererService.d.ts</tspan>
-<tspan x="10" y="4234">228.  2017-04-20 18:15:15 +0000     5254 bytes  dist/lib/rendering/cellRendererService.js</tspan>
-<tspan x="10" y="4250">229.  2017-04-20 18:15:15 +0000      660 bytes  dist/lib/rendering/cellRenderers/animateShowChan\</tspan>
+<tspan x="10" y="4170">224.  2017-04-20 18:16:22 +0000     3801 bytes  dist/lib/rendering/cellEditors/textCellEditor.js</tspan>
+<tspan x="10" y="4186">225.  2017-04-20 18:16:22 +0000      710 bytes  dist/lib/rendering/cellRendererFactory.d.ts</tspan>
+<tspan x="10" y="4202">226.  2017-04-20 18:16:22 +0000     4099 bytes  dist/lib/rendering/cellRendererFactory.js</tspan>
+<tspan x="10" y="4218">227.  2017-04-20 18:16:22 +0000     1223 bytes  dist/lib/rendering/cellRendererService.d.ts</tspan>
+<tspan x="10" y="4234">228.  2017-04-20 18:16:22 +0000     5254 bytes  dist/lib/rendering/cellRendererService.js</tspan>
+<tspan x="10" y="4250">229.  2017-04-20 18:16:22 +0000      660 bytes  dist/lib/rendering/cellRenderers/animateShowChan\</tspan>
 <tspan x="10" y="4266">geCellRenderer.d.ts</tspan>
-<tspan x="10" y="4282">230.  2017-04-20 18:15:15 +0000     4427 bytes  dist/lib/rendering/cellRenderers/animateShowChan\</tspan>
+<tspan x="10" y="4282">230.  2017-04-20 18:16:22 +0000     4427 bytes  dist/lib/rendering/cellRenderers/animateShowChan\</tspan>
 <tspan x="10" y="4298">geCellRenderer.js</tspan>
-<tspan x="10" y="4314">231.  2017-04-20 18:15:15 +0000      586 bytes  dist/lib/rendering/cellRenderers/animateSlideCel\</tspan>
+<tspan x="10" y="4314">231.  2017-04-20 18:16:22 +0000      586 bytes  dist/lib/rendering/cellRenderers/animateSlideCel\</tspan>
 <tspan x="10" y="4330">lRenderer.d.ts</tspan>
-<tspan x="10" y="4346">232.  2017-04-20 18:15:15 +0000     3642 bytes  dist/lib/rendering/cellRenderers/animateSlideCel\</tspan>
+<tspan x="10" y="4346">232.  2017-04-20 18:16:22 +0000     3642 bytes  dist/lib/rendering/cellRenderers/animateSlideCel\</tspan>
 <tspan x="10" y="4362">lRenderer.js</tspan>
-<tspan x="10" y="4378">233.  2017-04-20 18:15:15 +0000     1474 bytes  dist/lib/rendering/cellRenderers/groupCellRender\</tspan>
+<tspan x="10" y="4378">233.  2017-04-20 18:16:22 +0000     1474 bytes  dist/lib/rendering/cellRenderers/groupCellRender\</tspan>
 <tspan x="10" y="4394">er.d.ts</tspan>
-<tspan x="10" y="4410">234.  2017-04-20 18:15:15 +0000    20585 bytes  dist/lib/rendering/cellRenderers/groupCellRender\</tspan>
+<tspan x="10" y="4410">234.  2017-04-20 18:16:22 +0000    20585 bytes  dist/lib/rendering/cellRenderers/groupCellRender\</tspan>
 <tspan x="10" y="4426">er.js</tspan>
-<tspan x="10" y="4442">235.  2017-04-20 18:15:15 +0000     1397 bytes  dist/lib/rendering/cellRenderers/iCellRenderer.d\</tspan>
+<tspan x="10" y="4442">235.  2017-04-20 18:16:22 +0000     1397 bytes  dist/lib/rendering/cellRenderers/iCellRenderer.d\</tspan>
 <tspan x="10" y="4458">.ts</tspan>
-<tspan x="10" y="4474">236.  2017-04-20 18:15:15 +0000      257 bytes  dist/lib/rendering/cellRenderers/iCellRenderer.j\</tspan>
+<tspan x="10" y="4474">236.  2017-04-20 18:16:22 +0000      257 bytes  dist/lib/rendering/cellRenderers/iCellRenderer.j\</tspan>
 <tspan x="10" y="4490">s</tspan>
-<tspan x="10" y="4506">237.  2017-04-20 18:15:15 +0000      800 bytes  dist/lib/rendering/checkboxSelectionComponent.d.\</tspan>
+<tspan x="10" y="4506">237.  2017-04-20 18:16:22 +0000      800 bytes  dist/lib/rendering/checkboxSelectionComponent.d.\</tspan>
 <tspan x="10" y="4522">ts</tspan>
-<tspan x="10" y="4538">238.  2017-04-20 18:15:15 +0000     7091 bytes  dist/lib/rendering/checkboxSelectionComponent.js</tspan>
-<tspan x="10" y="4554">239.  2017-04-20 18:15:15 +0000      702 bytes  dist/lib/rendering/columnAnimationService.d.ts</tspan>
-<tspan x="10" y="4570">240.  2017-04-20 18:15:15 +0000     4624 bytes  dist/lib/rendering/columnAnimationService.js</tspan>
-<tspan x="10" y="4586">241.  2017-04-20 18:15:15 +0000      484 bytes  dist/lib/rendering/columnHoverService.d.ts</tspan>
-<tspan x="10" y="4602">242.  2017-04-20 18:15:15 +0000     3352 bytes  dist/lib/rendering/columnHoverService.js</tspan>
-<tspan x="10" y="4618">243.  2017-04-20 18:15:15 +0000      598 bytes  dist/lib/rendering/dateComponent.d.ts</tspan>
-<tspan x="10" y="4634">244.  2017-04-20 18:15:15 +0000      257 bytes  dist/lib/rendering/dateComponent.js</tspan>
-<tspan x="10" y="4650">245.  2017-04-20 18:15:15 +0000      659 bytes  dist/lib/rendering/features/setLeftFeature.d.ts</tspan>
-<tspan x="10" y="4666">246.  2017-04-20 18:15:15 +0000     5080 bytes  dist/lib/rendering/features/setLeftFeature.js</tspan>
-<tspan x="10" y="4682">247.  2017-04-20 18:15:15 +0000     4538 bytes  dist/lib/rendering/renderedCell.d.ts</tspan>
-<tspan x="10" y="4698">248.  2017-04-20 18:15:15 +0000    51901 bytes  dist/lib/rendering/renderedCell.js</tspan>
-<tspan x="10" y="4714">249.  2017-04-20 18:15:15 +0000     5218 bytes  dist/lib/rendering/renderedRow.d.ts</tspan>
-<tspan x="10" y="4730">250.  2017-04-20 18:15:15 +0000    49801 bytes  dist/lib/rendering/renderedRow.js</tspan>
-<tspan x="10" y="4746">251.  2017-04-20 18:15:15 +0000     1078 bytes  dist/lib/rendering/rowContainerComponent.d.ts</tspan>
-<tspan x="10" y="4762">252.  2017-04-20 18:15:15 +0000     2763 bytes  dist/lib/rendering/rowContainerComponent.js</tspan>
-<tspan x="10" y="4778">253.  2017-04-20 18:15:15 +0000     3702 bytes  dist/lib/rendering/rowRenderer.d.ts</tspan>
-<tspan x="10" y="4794">254.  2017-04-20 18:15:15 +0000    37865 bytes  dist/lib/rendering/rowRenderer.js</tspan>
-<tspan x="10" y="4810">255.  2017-04-20 18:15:15 +0000      410 bytes  dist/lib/rendering/valueFormatterService.d.ts</tspan>
-<tspan x="10" y="4826">256.  2017-04-20 18:15:15 +0000     2510 bytes  dist/lib/rendering/valueFormatterService.js</tspan>
-<tspan x="10" y="4842">257.  2017-04-20 18:15:15 +0000     1238 bytes  dist/lib/rowModels/floatingRowModel.d.ts</tspan>
-<tspan x="10" y="4858">258.  2017-04-20 18:15:15 +0000     6930 bytes  dist/lib/rowModels/floatingRowModel.js</tspan>
-<tspan x="10" y="4874">259.  2017-04-20 18:15:15 +0000     1168 bytes  dist/lib/rowModels/iDatasource.d.ts</tspan>
-<tspan x="10" y="4890">260.  2017-04-20 18:15:15 +0000      257 bytes  dist/lib/rowModels/iDatasource.js</tspan>
-<tspan x="10" y="4906">261.  2017-04-20 18:15:15 +0000      389 bytes  dist/lib/rowModels/inMemory/filterStage.d.ts</tspan>
-<tspan x="10" y="4922">262.  2017-04-20 18:15:15 +0000     2077 bytes  dist/lib/rowModels/inMemory/filterStage.js</tspan>
-<tspan x="10" y="4938">263.  2017-04-20 18:15:15 +0000      806 bytes  dist/lib/rowModels/inMemory/flattenStage.d.ts</tspan>
-<tspan x="10" y="4954">264.  2017-04-20 18:15:15 +0000     8021 bytes  dist/lib/rowModels/inMemory/flattenStage.js</tspan>
-<tspan x="10" y="4970">265.  2017-04-20 18:15:15 +0000     1188 bytes  dist/lib/rowModels/inMemory/inMemoryNodeManager.\</tspan>
+<tspan x="10" y="4538">238.  2017-04-20 18:16:22 +0000     7091 bytes  dist/lib/rendering/checkboxSelectionComponent.js</tspan>
+<tspan x="10" y="4554">239.  2017-04-20 18:16:22 +0000      702 bytes  dist/lib/rendering/columnAnimationService.d.ts</tspan>
+<tspan x="10" y="4570">240.  2017-04-20 18:16:22 +0000     4624 bytes  dist/lib/rendering/columnAnimationService.js</tspan>
+<tspan x="10" y="4586">241.  2017-04-20 18:16:22 +0000      484 bytes  dist/lib/rendering/columnHoverService.d.ts</tspan>
+<tspan x="10" y="4602">242.  2017-04-20 18:16:22 +0000     3352 bytes  dist/lib/rendering/columnHoverService.js</tspan>
+<tspan x="10" y="4618">243.  2017-04-20 18:16:22 +0000      598 bytes  dist/lib/rendering/dateComponent.d.ts</tspan>
+<tspan x="10" y="4634">244.  2017-04-20 18:16:22 +0000      257 bytes  dist/lib/rendering/dateComponent.js</tspan>
+<tspan x="10" y="4650">245.  2017-04-20 18:16:22 +0000      659 bytes  dist/lib/rendering/features/setLeftFeature.d.ts</tspan>
+<tspan x="10" y="4666">246.  2017-04-20 18:16:22 +0000     5080 bytes  dist/lib/rendering/features/setLeftFeature.js</tspan>
+<tspan x="10" y="4682">247.  2017-04-20 18:16:22 +0000     4538 bytes  dist/lib/rendering/renderedCell.d.ts</tspan>
+<tspan x="10" y="4698">248.  2017-04-20 18:16:22 +0000    51901 bytes  dist/lib/rendering/renderedCell.js</tspan>
+<tspan x="10" y="4714">249.  2017-04-20 18:16:22 +0000     5218 bytes  dist/lib/rendering/renderedRow.d.ts</tspan>
+<tspan x="10" y="4730">250.  2017-04-20 18:16:22 +0000    49801 bytes  dist/lib/rendering/renderedRow.js</tspan>
+<tspan x="10" y="4746">251.  2017-04-20 18:16:22 +0000     1078 bytes  dist/lib/rendering/rowContainerComponent.d.ts</tspan>
+<tspan x="10" y="4762">252.  2017-04-20 18:16:22 +0000     2763 bytes  dist/lib/rendering/rowContainerComponent.js</tspan>
+<tspan x="10" y="4778">253.  2017-04-20 18:16:22 +0000     3702 bytes  dist/lib/rendering/rowRenderer.d.ts</tspan>
+<tspan x="10" y="4794">254.  2017-04-20 18:16:22 +0000    37865 bytes  dist/lib/rendering/rowRenderer.js</tspan>
+<tspan x="10" y="4810">255.  2017-04-20 18:16:22 +0000      410 bytes  dist/lib/rendering/valueFormatterService.d.ts</tspan>
+<tspan x="10" y="4826">256.  2017-04-20 18:16:22 +0000     2510 bytes  dist/lib/rendering/valueFormatterService.js</tspan>
+<tspan x="10" y="4842">257.  2017-04-20 18:16:22 +0000     1238 bytes  dist/lib/rowModels/floatingRowModel.d.ts</tspan>
+<tspan x="10" y="4858">258.  2017-04-20 18:16:22 +0000     6930 bytes  dist/lib/rowModels/floatingRowModel.js</tspan>
+<tspan x="10" y="4874">259.  2017-04-20 18:16:22 +0000     1168 bytes  dist/lib/rowModels/iDatasource.d.ts</tspan>
+<tspan x="10" y="4890">260.  2017-04-20 18:16:22 +0000      257 bytes  dist/lib/rowModels/iDatasource.js</tspan>
+<tspan x="10" y="4906">261.  2017-04-20 18:16:22 +0000      389 bytes  dist/lib/rowModels/inMemory/filterStage.d.ts</tspan>
+<tspan x="10" y="4922">262.  2017-04-20 18:16:22 +0000     2077 bytes  dist/lib/rowModels/inMemory/filterStage.js</tspan>
+<tspan x="10" y="4938">263.  2017-04-20 18:16:22 +0000      806 bytes  dist/lib/rowModels/inMemory/flattenStage.d.ts</tspan>
+<tspan x="10" y="4954">264.  2017-04-20 18:16:22 +0000     8021 bytes  dist/lib/rowModels/inMemory/flattenStage.js</tspan>
+<tspan x="10" y="4970">265.  2017-04-20 18:16:22 +0000     1188 bytes  dist/lib/rowModels/inMemory/inMemoryNodeManager.\</tspan>
 <tspan x="10" y="4986">d.ts</tspan>
-<tspan x="10" y="5002">266.  2017-04-20 18:15:15 +0000     7948 bytes  dist/lib/rowModels/inMemory/inMemoryNodeManager.\</tspan>
+<tspan x="10" y="5002">266.  2017-04-20 18:16:22 +0000     7948 bytes  dist/lib/rowModels/inMemory/inMemoryNodeManager.\</tspan>
 <tspan x="10" y="5018">js</tspan>
-<tspan x="10" y="5034">267.  2017-04-20 18:15:15 +0000     2842 bytes  dist/lib/rowModels/inMemory/inMemoryRowModel.d.t\</tspan>
+<tspan x="10" y="5034">267.  2017-04-20 18:16:22 +0000     2842 bytes  dist/lib/rowModels/inMemory/inMemoryRowModel.d.t\</tspan>
 <tspan x="10" y="5050">s</tspan>
-<tspan x="10" y="5066">268.  2017-04-20 18:15:15 +0000    24099 bytes  dist/lib/rowModels/inMemory/inMemoryRowModel.js</tspan>
-<tspan x="10" y="5082">269.  2017-04-20 18:15:15 +0000      345 bytes  dist/lib/rowModels/inMemory/sortStage.d.ts</tspan>
-<tspan x="10" y="5098">270.  2017-04-20 18:15:15 +0000     2099 bytes  dist/lib/rowModels/inMemory/sortStage.js</tspan>
-<tspan x="10" y="5114">271.  2017-04-20 18:15:15 +0000     2342 bytes  dist/lib/rowModels/infinite/infiniteBlock.d.ts</tspan>
-<tspan x="10" y="5130">272.  2017-04-20 18:15:15 +0000    10487 bytes  dist/lib/rowModels/infinite/infiniteBlock.js</tspan>
-<tspan x="10" y="5146">273.  2017-04-20 18:15:15 +0000     2496 bytes  dist/lib/rowModels/infinite/infiniteCache.d.ts</tspan>
-<tspan x="10" y="5162">274.  2017-04-20 18:15:15 +0000    15971 bytes  dist/lib/rowModels/infinite/infiniteCache.js</tspan>
-<tspan x="10" y="5178">275.  2017-04-20 18:15:15 +0000     1847 bytes  dist/lib/rowModels/infinite/infiniteRowModel.d.t\</tspan>
+<tspan x="10" y="5066">268.  2017-04-20 18:16:22 +0000    24099 bytes  dist/lib/rowModels/inMemory/inMemoryRowModel.js</tspan>
+<tspan x="10" y="5082">269.  2017-04-20 18:16:22 +0000      345 bytes  dist/lib/rowModels/inMemory/sortStage.d.ts</tspan>
+<tspan x="10" y="5098">270.  2017-04-20 18:16:22 +0000     2099 bytes  dist/lib/rowModels/inMemory/sortStage.js</tspan>
+<tspan x="10" y="5114">271.  2017-04-20 18:16:22 +0000     2342 bytes  dist/lib/rowModels/infinite/infiniteBlock.d.ts</tspan>
+<tspan x="10" y="5130">272.  2017-04-20 18:16:22 +0000    10487 bytes  dist/lib/rowModels/infinite/infiniteBlock.js</tspan>
+<tspan x="10" y="5146">273.  2017-04-20 18:16:22 +0000     2496 bytes  dist/lib/rowModels/infinite/infiniteCache.d.ts</tspan>
+<tspan x="10" y="5162">274.  2017-04-20 18:16:22 +0000    15971 bytes  dist/lib/rowModels/infinite/infiniteCache.js</tspan>
+<tspan x="10" y="5178">275.  2017-04-20 18:16:22 +0000     1847 bytes  dist/lib/rowModels/infinite/infiniteRowModel.d.t\</tspan>
 <tspan x="10" y="5194">s</tspan>
-<tspan x="10" y="5210">276.  2017-04-20 18:15:15 +0000    13276 bytes  dist/lib/rowModels/infinite/infiniteRowModel.js</tspan>
-<tspan x="10" y="5226">277.  2017-04-20 18:15:15 +0000     1051 bytes  dist/lib/rowModels/pagination/paginationComp.d.t\</tspan>
+<tspan x="10" y="5210">276.  2017-04-20 18:16:22 +0000    13276 bytes  dist/lib/rowModels/infinite/infiniteRowModel.js</tspan>
+<tspan x="10" y="5226">277.  2017-04-20 18:16:22 +0000     1051 bytes  dist/lib/rowModels/pagination/paginationComp.d.t\</tspan>
 <tspan x="10" y="5242">s</tspan>
-<tspan x="10" y="5258">278.  2017-04-20 18:15:15 +0000    11031 bytes  dist/lib/rowModels/pagination/paginationComp.js</tspan>
-<tspan x="10" y="5274">279.  2017-04-20 18:15:15 +0000     1687 bytes  dist/lib/rowModels/pagination/serverPaginationSe\</tspan>
+<tspan x="10" y="5258">278.  2017-04-20 18:16:22 +0000    11031 bytes  dist/lib/rowModels/pagination/paginationComp.js</tspan>
+<tspan x="10" y="5274">279.  2017-04-20 18:16:22 +0000     1687 bytes  dist/lib/rowModels/pagination/serverPaginationSe\</tspan>
 <tspan x="10" y="5290">rvice.d.ts</tspan>
-<tspan x="10" y="5306">280.  2017-04-20 18:15:15 +0000    13269 bytes  dist/lib/rowModels/pagination/serverPaginationSe\</tspan>
+<tspan x="10" y="5306">280.  2017-04-20 18:16:22 +0000    13269 bytes  dist/lib/rowModels/pagination/serverPaginationSe\</tspan>
 <tspan x="10" y="5322">rvice.js</tspan>
-<tspan x="10" y="5338">281.  2017-04-20 18:15:15 +0000     2460 bytes  dist/lib/rowModels/paginationProxy.d.ts</tspan>
-<tspan x="10" y="5354">282.  2017-04-20 18:15:15 +0000    13191 bytes  dist/lib/rowModels/paginationProxy.js</tspan>
-<tspan x="10" y="5370">283.  2017-04-20 18:15:15 +0000      409 bytes  dist/lib/rowNodes/filterService.d.ts</tspan>
-<tspan x="10" y="5386">284.  2017-04-20 18:15:15 +0000     3570 bytes  dist/lib/rowNodes/filterService.js</tspan>
-<tspan x="10" y="5402">285.  2017-04-20 18:15:15 +0000      337 bytes  dist/lib/rowNodes/rowNodeFactory.d.ts</tspan>
-<tspan x="10" y="5418">286.  2017-04-20 18:15:15 +0000     2389 bytes  dist/lib/rowNodes/rowNodeFactory.js</tspan>
-<tspan x="10" y="5434">287.  2017-04-20 18:15:15 +0000      609 bytes  dist/lib/rowNodes/sortService.d.ts</tspan>
-<tspan x="10" y="5450">288.  2017-04-20 18:15:15 +0000     4223 bytes  dist/lib/rowNodes/sortService.js</tspan>
-<tspan x="10" y="5466">289.  2017-04-20 18:15:15 +0000     1427 bytes  dist/lib/selectionController.d.ts</tspan>
-<tspan x="10" y="5482">290.  2017-04-20 18:15:15 +0000    13516 bytes  dist/lib/selectionController.js</tspan>
-<tspan x="10" y="5498">291.  2017-04-20 18:15:15 +0000      849 bytes  dist/lib/sortController.d.ts</tspan>
-<tspan x="10" y="5514">292.  2017-04-20 18:15:15 +0000     8706 bytes  dist/lib/sortController.js</tspan>
-<tspan x="10" y="5530">293.  2017-04-20 18:15:15 +0000      690 bytes  dist/lib/styling/stylingService.d.ts</tspan>
-<tspan x="10" y="5546">294.  2017-04-20 18:15:15 +0000     3656 bytes  dist/lib/styling/stylingService.js</tspan>
-<tspan x="10" y="5562">295.  2017-04-20 18:15:15 +0000     2242 bytes  dist/lib/svgFactory.d.ts</tspan>
-<tspan x="10" y="5578">296.  2017-04-20 18:15:15 +0000    49303 bytes  dist/lib/svgFactory.js</tspan>
-<tspan x="10" y="5594">297.  2017-04-20 18:15:15 +0000      357 bytes  dist/lib/templateService.d.ts</tspan>
-<tspan x="10" y="5610">298.  2017-04-20 18:15:15 +0000     3732 bytes  dist/lib/templateService.js</tspan>
-<tspan x="10" y="5626">299.  2017-04-20 18:15:15 +0000    11398 bytes  dist/lib/utils.d.ts</tspan>
-<tspan x="10" y="5642">300.  2017-04-20 18:15:15 +0000    37200 bytes  dist/lib/utils.js</tspan>
-<tspan x="10" y="5658">301.  2017-04-20 18:15:15 +0000      979 bytes  dist/lib/valueService.d.ts</tspan>
-<tspan x="10" y="5674">302.  2017-04-20 18:15:15 +0000     8375 bytes  dist/lib/valueService.js</tspan>
-<tspan x="10" y="5690">303.  2017-04-20 18:15:15 +0000      863 bytes  dist/lib/widgets/agCheckbox.d.ts</tspan>
-<tspan x="10" y="5706">304.  2017-04-20 18:15:15 +0000     7366 bytes  dist/lib/widgets/agCheckbox.js</tspan>
-<tspan x="10" y="5722">305.  2017-04-20 18:15:15 +0000     1779 bytes  dist/lib/widgets/component.d.ts</tspan>
-<tspan x="10" y="5738">306.  2017-04-20 18:15:15 +0000     8408 bytes  dist/lib/widgets/component.js</tspan>
-<tspan x="10" y="5754">307.  2017-04-20 18:15:15 +0000      330 bytes  dist/lib/widgets/componentAnnotations.d.ts</tspan>
-<tspan x="10" y="5770">308.  2017-04-20 18:15:15 +0000     1898 bytes  dist/lib/widgets/componentAnnotations.js</tspan>
-<tspan x="10" y="5786">309.  2017-04-20 18:15:15 +0000     1178 bytes  dist/lib/widgets/popupService.d.ts</tspan>
-<tspan x="10" y="5802">310.  2017-04-20 18:15:15 +0000    10327 bytes  dist/lib/widgets/popupService.js</tspan>
-<tspan x="10" y="5818">311.  2017-04-20 18:15:15 +0000      814 bytes  dist/lib/widgets/touchListener.d.ts</tspan>
-<tspan x="10" y="5834">312.  2017-04-20 18:15:15 +0000     3578 bytes  dist/lib/widgets/touchListener.js</tspan>
-<tspan x="10" y="5850">313.  2017-04-20 18:15:15 +0000      663 bytes  dist/lib/xmlFactory.d.ts</tspan>
-<tspan x="10" y="5866">314.  2017-04-20 18:15:15 +0000     2992 bytes  dist/lib/xmlFactory.js</tspan>
-<tspan x="10" y="5882">315.  2017-04-20 18:15:15 +0000    17484 bytes  dist/styles/ag-grid.css</tspan>
-<tspan x="10" y="5898">316.  2017-04-20 18:15:15 +0000    11410 bytes  dist/styles/theme-blue.css</tspan>
-<tspan x="10" y="5914">317.  2017-04-20 18:15:15 +0000    11341 bytes  dist/styles/theme-bootstrap.css</tspan>
-<tspan x="10" y="5930">318.  2017-04-20 18:15:15 +0000    11745 bytes  dist/styles/theme-dark.css</tspan>
-<tspan x="10" y="5946">319.  2017-04-20 18:15:15 +0000    12028 bytes  dist/styles/theme-fresh.css</tspan>
-<tspan x="10" y="5962">320.  2017-04-20 18:15:15 +0000    11588 bytes  dist/styles/theme-material.css</tspan>
-<tspan x="10" y="5978">321.  2017-04-20 18:15:15 +0000     4121 bytes  gulpfile.js</tspan>
-<tspan x="10" y="5994">322.  2017-04-20 18:15:15 +0000      469 bytes  main-with-styles.js</tspan>
-<tspan x="10" y="6010">323.  2017-04-20 18:15:15 +0000     7389 bytes  main.d.ts</tspan>
-<tspan x="10" y="6026">324.  2017-04-20 18:15:15 +0000      191 bytes  main.js</tspan>
-<tspan x="10" y="6042">325.  2017-04-20 18:15:15 +0000     2092 bytes  notes.txt</tspan>
-<tspan x="10" y="6058">326.  2017-04-20 18:15:15 +0000     1486 bytes  package.json</tspan>
-<tspan x="10" y="6074">327.  2017-04-20 18:15:15 +0000      865 bytes  spec/columnController/columnControllerTest.js</tspan>
-<tspan x="10" y="6090">328.  2017-04-20 18:15:15 +0000      176 bytes  spec/sample.js</tspan>
-<tspan x="10" y="6106">329.  2017-04-20 18:15:15 +0000    14852 bytes  src/styles/ag-grid.styl</tspan>
-<tspan x="10" y="6122">330.  2017-04-20 18:15:15 +0000     2123 bytes  src/styles/theme-blue.styl</tspan>
-<tspan x="10" y="6138">331.  2017-04-20 18:15:15 +0000     1858 bytes  src/styles/theme-bootstrap.styl</tspan>
-<tspan x="10" y="6154">332.  2017-04-20 18:15:15 +0000    10502 bytes  src/styles/theme-common.styl</tspan>
-<tspan x="10" y="6170">333.  2017-04-20 18:15:15 +0000     2510 bytes  src/styles/theme-dark.styl</tspan>
-<tspan x="10" y="6186">334.  2017-04-20 18:15:15 +0000     1944 bytes  src/styles/theme-fresh.styl</tspan>
-<tspan x="10" y="6202">335.  2017-04-20 18:15:15 +0000     2270 bytes  src/styles/theme-material.styl</tspan>
-<tspan x="10" y="6218">336.  2017-04-20 18:15:15 +0000     1944 bytes  src/ts/baseFrameworkFactory.ts</tspan>
-<tspan x="10" y="6234">337.  2017-04-20 18:15:15 +0000     8387 bytes  src/ts/cellNavigationService.ts</tspan>
-<tspan x="10" y="6250">338.  2017-04-20 18:15:15 +0000    12574 bytes  src/ts/clientExports.ts</tspan>
-<tspan x="10" y="6266">339.  2017-04-20 18:15:15 +0000     2680 bytes  src/ts/columnChangeEvent.ts</tspan>
-<tspan x="10" y="6282">340.  2017-04-20 18:15:15 +0000     3603 bytes  src/ts/columnController/autoGroupColService.ts</tspan>
-<tspan x="10" y="6298">341.  2017-04-20 18:15:15 +0000     9136 bytes  src/ts/columnController/balancedColumnTreeBuilde\</tspan>
+<tspan x="10" y="5338">281.  2017-04-20 18:16:22 +0000     2460 bytes  dist/lib/rowModels/paginationProxy.d.ts</tspan>
+<tspan x="10" y="5354">282.  2017-04-20 18:16:22 +0000    13191 bytes  dist/lib/rowModels/paginationProxy.js</tspan>
+<tspan x="10" y="5370">283.  2017-04-20 18:16:22 +0000      409 bytes  dist/lib/rowNodes/filterService.d.ts</tspan>
+<tspan x="10" y="5386">284.  2017-04-20 18:16:22 +0000     3570 bytes  dist/lib/rowNodes/filterService.js</tspan>
+<tspan x="10" y="5402">285.  2017-04-20 18:16:22 +0000      337 bytes  dist/lib/rowNodes/rowNodeFactory.d.ts</tspan>
+<tspan x="10" y="5418">286.  2017-04-20 18:16:22 +0000     2389 bytes  dist/lib/rowNodes/rowNodeFactory.js</tspan>
+<tspan x="10" y="5434">287.  2017-04-20 18:16:22 +0000      609 bytes  dist/lib/rowNodes/sortService.d.ts</tspan>
+<tspan x="10" y="5450">288.  2017-04-20 18:16:22 +0000     4223 bytes  dist/lib/rowNodes/sortService.js</tspan>
+<tspan x="10" y="5466">289.  2017-04-20 18:16:22 +0000     1427 bytes  dist/lib/selectionController.d.ts</tspan>
+<tspan x="10" y="5482">290.  2017-04-20 18:16:22 +0000    13516 bytes  dist/lib/selectionController.js</tspan>
+<tspan x="10" y="5498">291.  2017-04-20 18:16:22 +0000      849 bytes  dist/lib/sortController.d.ts</tspan>
+<tspan x="10" y="5514">292.  2017-04-20 18:16:22 +0000     8706 bytes  dist/lib/sortController.js</tspan>
+<tspan x="10" y="5530">293.  2017-04-20 18:16:22 +0000      690 bytes  dist/lib/styling/stylingService.d.ts</tspan>
+<tspan x="10" y="5546">294.  2017-04-20 18:16:22 +0000     3656 bytes  dist/lib/styling/stylingService.js</tspan>
+<tspan x="10" y="5562">295.  2017-04-20 18:16:22 +0000     2242 bytes  dist/lib/svgFactory.d.ts</tspan>
+<tspan x="10" y="5578">296.  2017-04-20 18:16:22 +0000    49303 bytes  dist/lib/svgFactory.js</tspan>
+<tspan x="10" y="5594">297.  2017-04-20 18:16:22 +0000      357 bytes  dist/lib/templateService.d.ts</tspan>
+<tspan x="10" y="5610">298.  2017-04-20 18:16:22 +0000     3732 bytes  dist/lib/templateService.js</tspan>
+<tspan x="10" y="5626">299.  2017-04-20 18:16:22 +0000    11398 bytes  dist/lib/utils.d.ts</tspan>
+<tspan x="10" y="5642">300.  2017-04-20 18:16:22 +0000    37200 bytes  dist/lib/utils.js</tspan>
+<tspan x="10" y="5658">301.  2017-04-20 18:16:22 +0000      979 bytes  dist/lib/valueService.d.ts</tspan>
+<tspan x="10" y="5674">302.  2017-04-20 18:16:22 +0000     8375 bytes  dist/lib/valueService.js</tspan>
+<tspan x="10" y="5690">303.  2017-04-20 18:16:22 +0000      863 bytes  dist/lib/widgets/agCheckbox.d.ts</tspan>
+<tspan x="10" y="5706">304.  2017-04-20 18:16:22 +0000     7366 bytes  dist/lib/widgets/agCheckbox.js</tspan>
+<tspan x="10" y="5722">305.  2017-04-20 18:16:22 +0000     1779 bytes  dist/lib/widgets/component.d.ts</tspan>
+<tspan x="10" y="5738">306.  2017-04-20 18:16:22 +0000     8408 bytes  dist/lib/widgets/component.js</tspan>
+<tspan x="10" y="5754">307.  2017-04-20 18:16:22 +0000      330 bytes  dist/lib/widgets/componentAnnotations.d.ts</tspan>
+<tspan x="10" y="5770">308.  2017-04-20 18:16:22 +0000     1898 bytes  dist/lib/widgets/componentAnnotations.js</tspan>
+<tspan x="10" y="5786">309.  2017-04-20 18:16:22 +0000     1178 bytes  dist/lib/widgets/popupService.d.ts</tspan>
+<tspan x="10" y="5802">310.  2017-04-20 18:16:22 +0000    10327 bytes  dist/lib/widgets/popupService.js</tspan>
+<tspan x="10" y="5818">311.  2017-04-20 18:16:22 +0000      814 bytes  dist/lib/widgets/touchListener.d.ts</tspan>
+<tspan x="10" y="5834">312.  2017-04-20 18:16:22 +0000     3578 bytes  dist/lib/widgets/touchListener.js</tspan>
+<tspan x="10" y="5850">313.  2017-04-20 18:16:22 +0000      663 bytes  dist/lib/xmlFactory.d.ts</tspan>
+<tspan x="10" y="5866">314.  2017-04-20 18:16:22 +0000     2992 bytes  dist/lib/xmlFactory.js</tspan>
+<tspan x="10" y="5882">315.  2017-04-20 18:16:22 +0000    17484 bytes  dist/styles/ag-grid.css</tspan>
+<tspan x="10" y="5898">316.  2017-04-20 18:16:22 +0000    11410 bytes  dist/styles/theme-blue.css</tspan>
+<tspan x="10" y="5914">317.  2017-04-20 18:16:22 +0000    11341 bytes  dist/styles/theme-bootstrap.css</tspan>
+<tspan x="10" y="5930">318.  2017-04-20 18:16:22 +0000    11745 bytes  dist/styles/theme-dark.css</tspan>
+<tspan x="10" y="5946">319.  2017-04-20 18:16:22 +0000    12028 bytes  dist/styles/theme-fresh.css</tspan>
+<tspan x="10" y="5962">320.  2017-04-20 18:16:22 +0000    11588 bytes  dist/styles/theme-material.css</tspan>
+<tspan x="10" y="5978">321.  2017-04-20 18:16:22 +0000     4121 bytes  gulpfile.js</tspan>
+<tspan x="10" y="5994">322.  2017-04-20 18:16:22 +0000      469 bytes  main-with-styles.js</tspan>
+<tspan x="10" y="6010">323.  2017-04-20 18:16:22 +0000     7389 bytes  main.d.ts</tspan>
+<tspan x="10" y="6026">324.  2017-04-20 18:16:22 +0000      191 bytes  main.js</tspan>
+<tspan x="10" y="6042">325.  2017-04-20 18:16:22 +0000     2092 bytes  notes.txt</tspan>
+<tspan x="10" y="6058">326.  2017-04-20 18:16:22 +0000     1486 bytes  package.json</tspan>
+<tspan x="10" y="6074">327.  2017-04-20 18:16:22 +0000      865 bytes  spec/columnController/columnControllerTest.js</tspan>
+<tspan x="10" y="6090">328.  2017-04-20 18:16:22 +0000      176 bytes  spec/sample.js</tspan>
+<tspan x="10" y="6106">329.  2017-04-20 18:16:22 +0000    14852 bytes  src/styles/ag-grid.styl</tspan>
+<tspan x="10" y="6122">330.  2017-04-20 18:16:22 +0000     2123 bytes  src/styles/theme-blue.styl</tspan>
+<tspan x="10" y="6138">331.  2017-04-20 18:16:22 +0000     1858 bytes  src/styles/theme-bootstrap.styl</tspan>
+<tspan x="10" y="6154">332.  2017-04-20 18:16:22 +0000    10502 bytes  src/styles/theme-common.styl</tspan>
+<tspan x="10" y="6170">333.  2017-04-20 18:16:22 +0000     2510 bytes  src/styles/theme-dark.styl</tspan>
+<tspan x="10" y="6186">334.  2017-04-20 18:16:22 +0000     1944 bytes  src/styles/theme-fresh.styl</tspan>
+<tspan x="10" y="6202">335.  2017-04-20 18:16:22 +0000     2270 bytes  src/styles/theme-material.styl</tspan>
+<tspan x="10" y="6218">336.  2017-04-20 18:16:22 +0000     1944 bytes  src/ts/baseFrameworkFactory.ts</tspan>
+<tspan x="10" y="6234">337.  2017-04-20 18:16:22 +0000     8387 bytes  src/ts/cellNavigationService.ts</tspan>
+<tspan x="10" y="6250">338.  2017-04-20 18:16:22 +0000    12574 bytes  src/ts/clientExports.ts</tspan>
+<tspan x="10" y="6266">339.  2017-04-20 18:16:22 +0000     2680 bytes  src/ts/columnChangeEvent.ts</tspan>
+<tspan x="10" y="6282">340.  2017-04-20 18:16:22 +0000     3603 bytes  src/ts/columnController/autoGroupColService.ts</tspan>
+<tspan x="10" y="6298">341.  2017-04-20 18:16:22 +0000     9136 bytes  src/ts/columnController/balancedColumnTreeBuilde\</tspan>
 <tspan x="10" y="6314">r.ts</tspan>
-<tspan x="10" y="6330">342.  2017-04-20 18:15:15 +0000    85389 bytes  src/ts/columnController/columnController.ts</tspan>
-<tspan x="10" y="6346">343.  2017-04-20 18:15:15 +0000     1306 bytes  src/ts/columnController/columnKeyCreator.ts</tspan>
-<tspan x="10" y="6362">344.  2017-04-20 18:15:15 +0000     5169 bytes  src/ts/columnController/columnUtils.ts</tspan>
-<tspan x="10" y="6378">345.  2017-04-20 18:15:15 +0000     8110 bytes  src/ts/columnController/displayedGroupCreator.ts</tspan>
-<tspan x="10" y="6394">346.  2017-04-20 18:15:15 +0000      905 bytes  src/ts/columnController/groupInstanceIdCreator.t\</tspan>
+<tspan x="10" y="6330">342.  2017-04-20 18:16:22 +0000    85389 bytes  src/ts/columnController/columnController.ts</tspan>
+<tspan x="10" y="6346">343.  2017-04-20 18:16:22 +0000     1306 bytes  src/ts/columnController/columnKeyCreator.ts</tspan>
+<tspan x="10" y="6362">344.  2017-04-20 18:16:22 +0000     5169 bytes  src/ts/columnController/columnUtils.ts</tspan>
+<tspan x="10" y="6378">345.  2017-04-20 18:16:22 +0000     8110 bytes  src/ts/columnController/displayedGroupCreator.ts</tspan>
+<tspan x="10" y="6394">346.  2017-04-20 18:16:22 +0000      905 bytes  src/ts/columnController/groupInstanceIdCreator.t\</tspan>
 <tspan x="10" y="6410">s</tspan>
-<tspan x="10" y="6426">347.  2017-04-20 18:15:15 +0000    10828 bytes  src/ts/componentProvider.ts</tspan>
-<tspan x="10" y="6442">348.  2017-04-20 18:15:15 +0000     1207 bytes  src/ts/components/agGridNg1.ts</tspan>
-<tspan x="10" y="6458">349.  2017-04-20 18:15:15 +0000     4346 bytes  src/ts/components/agGridWebComponent.ts</tspan>
-<tspan x="10" y="6474">350.  2017-04-20 18:15:15 +0000    11294 bytes  src/ts/components/componentUtil.ts</tspan>
-<tspan x="10" y="6490">351.  2017-04-20 18:15:15 +0000     3772 bytes  src/ts/constants.ts</tspan>
-<tspan x="10" y="6506">352.  2017-04-20 18:15:15 +0000     2311 bytes  src/ts/context/beanStub.ts</tspan>
-<tspan x="10" y="6522">353.  2017-04-20 18:15:15 +0000    13296 bytes  src/ts/context/context.ts</tspan>
-<tspan x="10" y="6538">354.  2017-04-20 18:15:15 +0000     5484 bytes  src/ts/csvCreator.ts</tspan>
-<tspan x="10" y="6554">355.  2017-04-20 18:15:15 +0000      921 bytes  src/ts/downloader.ts</tspan>
-<tspan x="10" y="6570">356.  2017-04-20 18:15:15 +0000    16269 bytes  src/ts/dragAndDrop/dragAndDropService.ts</tspan>
-<tspan x="10" y="6586">357.  2017-04-20 18:15:15 +0000    10708 bytes  src/ts/dragAndDrop/dragService.ts</tspan>
-<tspan x="10" y="6602">358.  2017-04-20 18:15:15 +0000    11034 bytes  src/ts/entities/colDef.ts</tspan>
-<tspan x="10" y="6618">359.  2017-04-20 18:15:15 +0000    16125 bytes  src/ts/entities/column.ts</tspan>
-<tspan x="10" y="6634">360.  2017-04-20 18:15:15 +0000     9257 bytes  src/ts/entities/columnGroup.ts</tspan>
-<tspan x="10" y="6650">361.  2017-04-20 18:15:15 +0000      601 bytes  src/ts/entities/columnGroupChild.ts</tspan>
-<tspan x="10" y="6666">362.  2017-04-20 18:15:15 +0000     1128 bytes  src/ts/entities/gridCell.ts</tspan>
-<tspan x="10" y="6682">363.  2017-04-20 18:15:15 +0000    13913 bytes  src/ts/entities/gridOptions.ts</tspan>
-<tspan x="10" y="6698">364.  2017-04-20 18:15:15 +0000     2496 bytes  src/ts/entities/gridRow.ts</tspan>
-<tspan x="10" y="6714">365.  2017-04-20 18:15:15 +0000     4460 bytes  src/ts/entities/originalColumnGroup.ts</tspan>
-<tspan x="10" y="6730">366.  2017-04-20 18:15:15 +0000      264 bytes  src/ts/entities/originalColumnGroupChild.ts</tspan>
-<tspan x="10" y="6746">367.  2017-04-20 18:15:15 +0000    22306 bytes  src/ts/entities/rowNode.ts</tspan>
-<tspan x="10" y="6762">368.  2017-04-20 18:15:15 +0000     3232 bytes  src/ts/eventService.ts</tspan>
-<tspan x="10" y="6778">369.  2017-04-20 18:15:15 +0000     8527 bytes  src/ts/events.ts</tspan>
-<tspan x="10" y="6794">370.  2017-04-20 18:15:15 +0000     1368 bytes  src/ts/exportParams.ts</tspan>
-<tspan x="10" y="6810">371.  2017-04-20 18:15:15 +0000     2168 bytes  src/ts/expressionService.ts</tspan>
-<tspan x="10" y="6826">372.  2017-04-20 18:15:15 +0000    10549 bytes  src/ts/filter/baseFilter.ts</tspan>
-<tspan x="10" y="6842">373.  2017-04-20 18:15:15 +0000     6496 bytes  src/ts/filter/dateFilter.ts</tspan>
-<tspan x="10" y="6858">374.  2017-04-20 18:15:15 +0000      119 bytes  src/ts/filter/filter.ts</tspan>
-<tspan x="10" y="6874">375.  2017-04-20 18:15:15 +0000    18292 bytes  src/ts/filter/filterManager.ts</tspan>
-<tspan x="10" y="6890">376.  2017-04-20 18:15:15 +0000     9208 bytes  src/ts/filter/floatingFilter.ts</tspan>
-<tspan x="10" y="6906">377.  2017-04-20 18:15:15 +0000     4187 bytes  src/ts/filter/floatingFilterWrapper.ts</tspan>
-<tspan x="10" y="6922">378.  2017-04-20 18:15:15 +0000     5491 bytes  src/ts/filter/numberFilter.ts</tspan>
-<tspan x="10" y="6938">379.  2017-04-20 18:15:15 +0000      269 bytes  src/ts/filter/textAndNumberFilterParameters.ts</tspan>
-<tspan x="10" y="6954">380.  2017-04-20 18:15:15 +0000     4931 bytes  src/ts/filter/textFilter.ts</tspan>
-<tspan x="10" y="6970">381.  2017-04-20 18:15:15 +0000     6773 bytes  src/ts/focusedCellController.ts</tspan>
-<tspan x="10" y="6986">382.  2017-04-20 18:15:15 +0000      667 bytes  src/ts/functions.ts</tspan>
-<tspan x="10" y="7002">383.  2017-04-20 18:15:15 +0000     9225 bytes  src/ts/grid.ts</tspan>
-<tspan x="10" y="7018">384.  2017-04-20 18:15:15 +0000    31135 bytes  src/ts/gridApi.ts</tspan>
-<tspan x="10" y="7034">385.  2017-04-20 18:15:15 +0000    12495 bytes  src/ts/gridCore.ts</tspan>
-<tspan x="10" y="7050">386.  2017-04-20 18:15:15 +0000    29136 bytes  src/ts/gridOptionsWrapper.ts</tspan>
-<tspan x="10" y="7066">387.  2017-04-20 18:15:15 +0000    78695 bytes  src/ts/gridPanel/gridPanel.ts</tspan>
-<tspan x="10" y="7082">388.  2017-04-20 18:15:15 +0000     1212 bytes  src/ts/gridPanel/mouseEventService.ts</tspan>
-<tspan x="10" y="7098">389.  2017-04-20 18:15:15 +0000     2336 bytes  src/ts/gridPanel/scrollVisibleService.ts</tspan>
-<tspan x="10" y="7114">390.  2017-04-20 18:15:15 +0000    14133 bytes  src/ts/gridSerializer.ts</tspan>
-<tspan x="10" y="7130">391.  2017-04-20 18:15:15 +0000     2973 bytes  src/ts/headerRendering/bodyDropPivotTarget.ts</tspan>
-<tspan x="10" y="7146">392.  2017-04-20 18:15:15 +0000     4316 bytes  src/ts/headerRendering/bodyDropTarget.ts</tspan>
-<tspan x="10" y="7162">393.  2017-04-20 18:15:15 +0000     2717 bytes  src/ts/headerRendering/cssClassApplier.ts</tspan>
-<tspan x="10" y="7178">394.  2017-04-20 18:15:15 +0000     4179 bytes  src/ts/headerRendering/deprecated/headerTemplate\</tspan>
+<tspan x="10" y="6426">347.  2017-04-20 18:16:22 +0000    10828 bytes  src/ts/componentProvider.ts</tspan>
+<tspan x="10" y="6442">348.  2017-04-20 18:16:22 +0000     1207 bytes  src/ts/components/agGridNg1.ts</tspan>
+<tspan x="10" y="6458">349.  2017-04-20 18:16:22 +0000     4346 bytes  src/ts/components/agGridWebComponent.ts</tspan>
+<tspan x="10" y="6474">350.  2017-04-20 18:16:22 +0000    11294 bytes  src/ts/components/componentUtil.ts</tspan>
+<tspan x="10" y="6490">351.  2017-04-20 18:16:22 +0000     3772 bytes  src/ts/constants.ts</tspan>
+<tspan x="10" y="6506">352.  2017-04-20 18:16:22 +0000     2311 bytes  src/ts/context/beanStub.ts</tspan>
+<tspan x="10" y="6522">353.  2017-04-20 18:16:22 +0000    13296 bytes  src/ts/context/context.ts</tspan>
+<tspan x="10" y="6538">354.  2017-04-20 18:16:22 +0000     5484 bytes  src/ts/csvCreator.ts</tspan>
+<tspan x="10" y="6554">355.  2017-04-20 18:16:22 +0000      921 bytes  src/ts/downloader.ts</tspan>
+<tspan x="10" y="6570">356.  2017-04-20 18:16:22 +0000    16269 bytes  src/ts/dragAndDrop/dragAndDropService.ts</tspan>
+<tspan x="10" y="6586">357.  2017-04-20 18:16:22 +0000    10708 bytes  src/ts/dragAndDrop/dragService.ts</tspan>
+<tspan x="10" y="6602">358.  2017-04-20 18:16:22 +0000    11034 bytes  src/ts/entities/colDef.ts</tspan>
+<tspan x="10" y="6618">359.  2017-04-20 18:16:22 +0000    16125 bytes  src/ts/entities/column.ts</tspan>
+<tspan x="10" y="6634">360.  2017-04-20 18:16:22 +0000     9257 bytes  src/ts/entities/columnGroup.ts</tspan>
+<tspan x="10" y="6650">361.  2017-04-20 18:16:22 +0000      601 bytes  src/ts/entities/columnGroupChild.ts</tspan>
+<tspan x="10" y="6666">362.  2017-04-20 18:16:22 +0000     1128 bytes  src/ts/entities/gridCell.ts</tspan>
+<tspan x="10" y="6682">363.  2017-04-20 18:16:22 +0000    13913 bytes  src/ts/entities/gridOptions.ts</tspan>
+<tspan x="10" y="6698">364.  2017-04-20 18:16:22 +0000     2496 bytes  src/ts/entities/gridRow.ts</tspan>
+<tspan x="10" y="6714">365.  2017-04-20 18:16:22 +0000     4460 bytes  src/ts/entities/originalColumnGroup.ts</tspan>
+<tspan x="10" y="6730">366.  2017-04-20 18:16:22 +0000      264 bytes  src/ts/entities/originalColumnGroupChild.ts</tspan>
+<tspan x="10" y="6746">367.  2017-04-20 18:16:22 +0000    22306 bytes  src/ts/entities/rowNode.ts</tspan>
+<tspan x="10" y="6762">368.  2017-04-20 18:16:22 +0000     3232 bytes  src/ts/eventService.ts</tspan>
+<tspan x="10" y="6778">369.  2017-04-20 18:16:22 +0000     8527 bytes  src/ts/events.ts</tspan>
+<tspan x="10" y="6794">370.  2017-04-20 18:16:22 +0000     1368 bytes  src/ts/exportParams.ts</tspan>
+<tspan x="10" y="6810">371.  2017-04-20 18:16:22 +0000     2168 bytes  src/ts/expressionService.ts</tspan>
+<tspan x="10" y="6826">372.  2017-04-20 18:16:22 +0000    10549 bytes  src/ts/filter/baseFilter.ts</tspan>
+<tspan x="10" y="6842">373.  2017-04-20 18:16:22 +0000     6496 bytes  src/ts/filter/dateFilter.ts</tspan>
+<tspan x="10" y="6858">374.  2017-04-20 18:16:22 +0000      119 bytes  src/ts/filter/filter.ts</tspan>
+<tspan x="10" y="6874">375.  2017-04-20 18:16:22 +0000    18292 bytes  src/ts/filter/filterManager.ts</tspan>
+<tspan x="10" y="6890">376.  2017-04-20 18:16:22 +0000     9208 bytes  src/ts/filter/floatingFilter.ts</tspan>
+<tspan x="10" y="6906">377.  2017-04-20 18:16:22 +0000     4187 bytes  src/ts/filter/floatingFilterWrapper.ts</tspan>
+<tspan x="10" y="6922">378.  2017-04-20 18:16:22 +0000     5491 bytes  src/ts/filter/numberFilter.ts</tspan>
+<tspan x="10" y="6938">379.  2017-04-20 18:16:22 +0000      269 bytes  src/ts/filter/textAndNumberFilterParameters.ts</tspan>
+<tspan x="10" y="6954">380.  2017-04-20 18:16:22 +0000     4931 bytes  src/ts/filter/textFilter.ts</tspan>
+<tspan x="10" y="6970">381.  2017-04-20 18:16:22 +0000     6773 bytes  src/ts/focusedCellController.ts</tspan>
+<tspan x="10" y="6986">382.  2017-04-20 18:16:22 +0000      667 bytes  src/ts/functions.ts</tspan>
+<tspan x="10" y="7002">383.  2017-04-20 18:16:22 +0000     9225 bytes  src/ts/grid.ts</tspan>
+<tspan x="10" y="7018">384.  2017-04-20 18:16:22 +0000    31135 bytes  src/ts/gridApi.ts</tspan>
+<tspan x="10" y="7034">385.  2017-04-20 18:16:22 +0000    12495 bytes  src/ts/gridCore.ts</tspan>
+<tspan x="10" y="7050">386.  2017-04-20 18:16:22 +0000    29136 bytes  src/ts/gridOptionsWrapper.ts</tspan>
+<tspan x="10" y="7066">387.  2017-04-20 18:16:22 +0000    78695 bytes  src/ts/gridPanel/gridPanel.ts</tspan>
+<tspan x="10" y="7082">388.  2017-04-20 18:16:22 +0000     1212 bytes  src/ts/gridPanel/mouseEventService.ts</tspan>
+<tspan x="10" y="7098">389.  2017-04-20 18:16:22 +0000     2336 bytes  src/ts/gridPanel/scrollVisibleService.ts</tspan>
+<tspan x="10" y="7114">390.  2017-04-20 18:16:22 +0000    14133 bytes  src/ts/gridSerializer.ts</tspan>
+<tspan x="10" y="7130">391.  2017-04-20 18:16:22 +0000     2973 bytes  src/ts/headerRendering/bodyDropPivotTarget.ts</tspan>
+<tspan x="10" y="7146">392.  2017-04-20 18:16:22 +0000     4316 bytes  src/ts/headerRendering/bodyDropTarget.ts</tspan>
+<tspan x="10" y="7162">393.  2017-04-20 18:16:22 +0000     2717 bytes  src/ts/headerRendering/cssClassApplier.ts</tspan>
+<tspan x="10" y="7178">394.  2017-04-20 18:16:22 +0000     4179 bytes  src/ts/headerRendering/deprecated/headerTemplate\</tspan>
 <tspan x="10" y="7194">Loader.ts</tspan>
-<tspan x="10" y="7210">395.  2017-04-20 18:15:15 +0000    15342 bytes  src/ts/headerRendering/deprecated/renderedHeader\</tspan>
+<tspan x="10" y="7210">395.  2017-04-20 18:16:22 +0000    15342 bytes  src/ts/headerRendering/deprecated/renderedHeader\</tspan>
 <tspan x="10" y="7226">Cell.ts</tspan>
-<tspan x="10" y="7242">396.  2017-04-20 18:15:15 +0000     9172 bytes  src/ts/headerRendering/header/headerComp.ts</tspan>
-<tspan x="10" y="7258">397.  2017-04-20 18:15:15 +0000    10632 bytes  src/ts/headerRendering/header/headerWrapperComp.\</tspan>
+<tspan x="10" y="7242">396.  2017-04-20 18:16:22 +0000     9172 bytes  src/ts/headerRendering/header/headerComp.ts</tspan>
+<tspan x="10" y="7258">397.  2017-04-20 18:16:22 +0000    10632 bytes  src/ts/headerRendering/header/headerWrapperComp.\</tspan>
 <tspan x="10" y="7274">ts</tspan>
-<tspan x="10" y="7290">398.  2017-04-20 18:15:15 +0000     5855 bytes  src/ts/headerRendering/header/selectAllFeature.t\</tspan>
+<tspan x="10" y="7290">398.  2017-04-20 18:16:22 +0000     5855 bytes  src/ts/headerRendering/header/selectAllFeature.t\</tspan>
 <tspan x="10" y="7306">s</tspan>
-<tspan x="10" y="7322">399.  2017-04-20 18:15:15 +0000     6430 bytes  src/ts/headerRendering/headerContainer.ts</tspan>
-<tspan x="10" y="7338">400.  2017-04-20 18:15:15 +0000     4798 bytes  src/ts/headerRendering/headerGroup/headerGroupCo\</tspan>
+<tspan x="10" y="7322">399.  2017-04-20 18:16:22 +0000     6430 bytes  src/ts/headerRendering/headerContainer.ts</tspan>
+<tspan x="10" y="7338">400.  2017-04-20 18:16:22 +0000     4798 bytes  src/ts/headerRendering/headerGroup/headerGroupCo\</tspan>
 <tspan x="10" y="7354">mp.ts</tspan>
-<tspan x="10" y="7370">401.  2017-04-20 18:15:15 +0000    12502 bytes  src/ts/headerRendering/headerGroup/headerGroupWr\</tspan>
+<tspan x="10" y="7370">401.  2017-04-20 18:16:22 +0000    12502 bytes  src/ts/headerRendering/headerGroup/headerGroupWr\</tspan>
 <tspan x="10" y="7386">apperComp.ts</tspan>
-<tspan x="10" y="7402">402.  2017-04-20 18:15:15 +0000     5194 bytes  src/ts/headerRendering/headerRenderer.ts</tspan>
-<tspan x="10" y="7418">403.  2017-04-20 18:15:15 +0000    11399 bytes  src/ts/headerRendering/headerRowComp.ts</tspan>
-<tspan x="10" y="7434">404.  2017-04-20 18:15:15 +0000     4718 bytes  src/ts/headerRendering/horizontalDragService.ts</tspan>
-<tspan x="10" y="7450">405.  2017-04-20 18:15:15 +0000    12666 bytes  src/ts/headerRendering/moveColumnController.ts</tspan>
-<tspan x="10" y="7466">406.  2017-04-20 18:15:15 +0000     2959 bytes  src/ts/headerRendering/standardMenu.ts</tspan>
-<tspan x="10" y="7482">407.  2017-04-20 18:15:15 +0000      190 bytes  src/ts/iLogger.ts</tspan>
-<tspan x="10" y="7498">408.  2017-04-20 18:15:15 +0000      249 bytes  src/ts/interfaces/iAggFuncService.ts</tspan>
-<tspan x="10" y="7514">409.  2017-04-20 18:15:15 +0000      405 bytes  src/ts/interfaces/iClipboardService.ts</tspan>
-<tspan x="10" y="7530">410.  2017-04-20 18:15:15 +0000      110 bytes  src/ts/interfaces/iCompFactory.ts</tspan>
-<tspan x="10" y="7546">411.  2017-04-20 18:15:15 +0000     1147 bytes  src/ts/interfaces/iComponent.ts</tspan>
-<tspan x="10" y="7562">412.  2017-04-20 18:15:15 +0000      218 bytes  src/ts/interfaces/iContextMenuFactory.ts</tspan>
-<tspan x="10" y="7578">413.  2017-04-20 18:15:15 +0000       40 bytes  src/ts/interfaces/iEnterpriseCache.ts</tspan>
-<tspan x="10" y="7594">414.  2017-04-20 18:15:15 +0000     1111 bytes  src/ts/interfaces/iEnterpriseDatasource.ts</tspan>
-<tspan x="10" y="7610">415.  2017-04-20 18:15:15 +0000      172 bytes  src/ts/interfaces/iEventEmitter.ts</tspan>
-<tspan x="10" y="7626">416.  2017-04-20 18:15:15 +0000      201 bytes  src/ts/interfaces/iExcelCreator.ts</tspan>
-<tspan x="10" y="7642">417.  2017-04-20 18:15:15 +0000     3145 bytes  src/ts/interfaces/iFilter.ts</tspan>
-<tspan x="10" y="7658">418.  2017-04-20 18:15:15 +0000     1337 bytes  src/ts/interfaces/iFrameworkFactory.ts</tspan>
-<tspan x="10" y="7674">419.  2017-04-20 18:15:15 +0000     1278 bytes  src/ts/interfaces/iInMemoryRowModel.ts</tspan>
-<tspan x="10" y="7690">420.  2017-04-20 18:15:15 +0000       29 bytes  src/ts/interfaces/iMenu.ts</tspan>
-<tspan x="10" y="7706">421.  2017-04-20 18:15:15 +0000      324 bytes  src/ts/interfaces/iMenuFactory.ts</tspan>
-<tspan x="10" y="7722">422.  2017-04-20 18:15:15 +0000      927 bytes  src/ts/interfaces/iRangeController.ts</tspan>
-<tspan x="10" y="7738">423.  2017-04-20 18:15:15 +0000     2408 bytes  src/ts/interfaces/iRowModel.ts</tspan>
-<tspan x="10" y="7754">424.  2017-04-20 18:15:15 +0000      218 bytes  src/ts/interfaces/iRowNodeStage.ts</tspan>
-<tspan x="10" y="7770">425.  2017-04-20 18:15:15 +0000      542 bytes  src/ts/interfaces/iSetFilterParams.ts</tspan>
-<tspan x="10" y="7786">426.  2017-04-20 18:15:15 +0000     1137 bytes  src/ts/interfaces/iViewportDatasource.ts</tspan>
-<tspan x="10" y="7802">427.  2017-04-20 18:15:15 +0000     9759 bytes  src/ts/layout/borderLayout.ts</tspan>
-<tspan x="10" y="7818">428.  2017-04-20 18:15:15 +0000     4187 bytes  src/ts/layout/tabbedLayout.ts</tspan>
-<tspan x="10" y="7834">429.  2017-04-20 18:15:15 +0000      834 bytes  src/ts/layout/verticalStack.ts</tspan>
-<tspan x="10" y="7850">430.  2017-04-20 18:15:15 +0000      821 bytes  src/ts/logger.ts</tspan>
-<tspan x="10" y="7866">431.  2017-04-20 18:15:15 +0000     8078 bytes  src/ts/masterSlaveService.ts</tspan>
-<tspan x="10" y="7882">432.  2017-04-20 18:15:15 +0000     3821 bytes  src/ts/misc/focusService.ts</tspan>
-<tspan x="10" y="7898">433.  2017-04-20 18:15:15 +0000       48 bytes  src/ts/misc/methodNotImplementedException.ts</tspan>
-<tspan x="10" y="7914">434.  2017-04-20 18:15:15 +0000      831 bytes  src/ts/misc/simpleHttpRequest.ts</tspan>
-<tspan x="10" y="7930">435.  2017-04-20 18:15:15 +0000     5822 bytes  src/ts/rendering/autoWidthCalculator.ts</tspan>
-<tspan x="10" y="7946">436.  2017-04-20 18:15:15 +0000     3517 bytes  src/ts/rendering/cellEditorFactory.ts</tspan>
-<tspan x="10" y="7962">437.  2017-04-20 18:15:15 +0000     3019 bytes  src/ts/rendering/cellEditors/iCellEditor.ts</tspan>
-<tspan x="10" y="7978">438.  2017-04-20 18:15:15 +0000     2422 bytes  src/ts/rendering/cellEditors/largeTextCellEditor\</tspan>
+<tspan x="10" y="7402">402.  2017-04-20 18:16:22 +0000     5194 bytes  src/ts/headerRendering/headerRenderer.ts</tspan>
+<tspan x="10" y="7418">403.  2017-04-20 18:16:22 +0000    11399 bytes  src/ts/headerRendering/headerRowComp.ts</tspan>
+<tspan x="10" y="7434">404.  2017-04-20 18:16:22 +0000     4718 bytes  src/ts/headerRendering/horizontalDragService.ts</tspan>
+<tspan x="10" y="7450">405.  2017-04-20 18:16:22 +0000    12666 bytes  src/ts/headerRendering/moveColumnController.ts</tspan>
+<tspan x="10" y="7466">406.  2017-04-20 18:16:22 +0000     2959 bytes  src/ts/headerRendering/standardMenu.ts</tspan>
+<tspan x="10" y="7482">407.  2017-04-20 18:16:22 +0000      190 bytes  src/ts/iLogger.ts</tspan>
+<tspan x="10" y="7498">408.  2017-04-20 18:16:22 +0000      249 bytes  src/ts/interfaces/iAggFuncService.ts</tspan>
+<tspan x="10" y="7514">409.  2017-04-20 18:16:22 +0000      405 bytes  src/ts/interfaces/iClipboardService.ts</tspan>
+<tspan x="10" y="7530">410.  2017-04-20 18:16:22 +0000      110 bytes  src/ts/interfaces/iCompFactory.ts</tspan>
+<tspan x="10" y="7546">411.  2017-04-20 18:16:22 +0000     1147 bytes  src/ts/interfaces/iComponent.ts</tspan>
+<tspan x="10" y="7562">412.  2017-04-20 18:16:22 +0000      218 bytes  src/ts/interfaces/iContextMenuFactory.ts</tspan>
+<tspan x="10" y="7578">413.  2017-04-20 18:16:22 +0000       40 bytes  src/ts/interfaces/iEnterpriseCache.ts</tspan>
+<tspan x="10" y="7594">414.  2017-04-20 18:16:22 +0000     1111 bytes  src/ts/interfaces/iEnterpriseDatasource.ts</tspan>
+<tspan x="10" y="7610">415.  2017-04-20 18:16:22 +0000      172 bytes  src/ts/interfaces/iEventEmitter.ts</tspan>
+<tspan x="10" y="7626">416.  2017-04-20 18:16:22 +0000      201 bytes  src/ts/interfaces/iExcelCreator.ts</tspan>
+<tspan x="10" y="7642">417.  2017-04-20 18:16:22 +0000     3145 bytes  src/ts/interfaces/iFilter.ts</tspan>
+<tspan x="10" y="7658">418.  2017-04-20 18:16:22 +0000     1337 bytes  src/ts/interfaces/iFrameworkFactory.ts</tspan>
+<tspan x="10" y="7674">419.  2017-04-20 18:16:22 +0000     1278 bytes  src/ts/interfaces/iInMemoryRowModel.ts</tspan>
+<tspan x="10" y="7690">420.  2017-04-20 18:16:22 +0000       29 bytes  src/ts/interfaces/iMenu.ts</tspan>
+<tspan x="10" y="7706">421.  2017-04-20 18:16:22 +0000      324 bytes  src/ts/interfaces/iMenuFactory.ts</tspan>
+<tspan x="10" y="7722">422.  2017-04-20 18:16:22 +0000      927 bytes  src/ts/interfaces/iRangeController.ts</tspan>
+<tspan x="10" y="7738">423.  2017-04-20 18:16:22 +0000     2408 bytes  src/ts/interfaces/iRowModel.ts</tspan>
+<tspan x="10" y="7754">424.  2017-04-20 18:16:22 +0000      218 bytes  src/ts/interfaces/iRowNodeStage.ts</tspan>
+<tspan x="10" y="7770">425.  2017-04-20 18:16:22 +0000      542 bytes  src/ts/interfaces/iSetFilterParams.ts</tspan>
+<tspan x="10" y="7786">426.  2017-04-20 18:16:22 +0000     1137 bytes  src/ts/interfaces/iViewportDatasource.ts</tspan>
+<tspan x="10" y="7802">427.  2017-04-20 18:16:22 +0000     9759 bytes  src/ts/layout/borderLayout.ts</tspan>
+<tspan x="10" y="7818">428.  2017-04-20 18:16:22 +0000     4187 bytes  src/ts/layout/tabbedLayout.ts</tspan>
+<tspan x="10" y="7834">429.  2017-04-20 18:16:22 +0000      834 bytes  src/ts/layout/verticalStack.ts</tspan>
+<tspan x="10" y="7850">430.  2017-04-20 18:16:22 +0000      821 bytes  src/ts/logger.ts</tspan>
+<tspan x="10" y="7866">431.  2017-04-20 18:16:22 +0000     8078 bytes  src/ts/masterSlaveService.ts</tspan>
+<tspan x="10" y="7882">432.  2017-04-20 18:16:22 +0000     3821 bytes  src/ts/misc/focusService.ts</tspan>
+<tspan x="10" y="7898">433.  2017-04-20 18:16:22 +0000       48 bytes  src/ts/misc/methodNotImplementedException.ts</tspan>
+<tspan x="10" y="7914">434.  2017-04-20 18:16:22 +0000      831 bytes  src/ts/misc/simpleHttpRequest.ts</tspan>
+<tspan x="10" y="7930">435.  2017-04-20 18:16:22 +0000     5822 bytes  src/ts/rendering/autoWidthCalculator.ts</tspan>
+<tspan x="10" y="7946">436.  2017-04-20 18:16:22 +0000     3517 bytes  src/ts/rendering/cellEditorFactory.ts</tspan>
+<tspan x="10" y="7962">437.  2017-04-20 18:16:22 +0000     3019 bytes  src/ts/rendering/cellEditors/iCellEditor.ts</tspan>
+<tspan x="10" y="7978">438.  2017-04-20 18:16:22 +0000     2422 bytes  src/ts/rendering/cellEditors/largeTextCellEditor\</tspan>
 <tspan x="10" y="7994">.ts</tspan>
-<tspan x="10" y="8010">439.  2017-04-20 18:15:15 +0000     2312 bytes  src/ts/rendering/cellEditors/popupEditorWrapper.\</tspan>
+<tspan x="10" y="8010">439.  2017-04-20 18:16:22 +0000     2312 bytes  src/ts/rendering/cellEditors/popupEditorWrapper.\</tspan>
 <tspan x="10" y="8026">ts</tspan>
-<tspan x="10" y="8042">440.  2017-04-20 18:15:15 +0000      179 bytes  src/ts/rendering/cellEditors/popupSelectCellEdit\</tspan>
+<tspan x="10" y="8042">440.  2017-04-20 18:16:22 +0000      179 bytes  src/ts/rendering/cellEditors/popupSelectCellEdit\</tspan>
 <tspan x="10" y="8058">or.ts</tspan>
-<tspan x="10" y="8074">441.  2017-04-20 18:15:15 +0000      171 bytes  src/ts/rendering/cellEditors/popupTextCellEditor\</tspan>
+<tspan x="10" y="8074">441.  2017-04-20 18:16:22 +0000      171 bytes  src/ts/rendering/cellEditors/popupTextCellEditor\</tspan>
 <tspan x="10" y="8090">.ts</tspan>
-<tspan x="10" y="8106">442.  2017-04-20 18:15:15 +0000     1916 bytes  src/ts/rendering/cellEditors/selectCellEditor.ts</tspan>
-<tspan x="10" y="8122">443.  2017-04-20 18:15:15 +0000     2967 bytes  src/ts/rendering/cellEditors/textCellEditor.ts</tspan>
-<tspan x="10" y="8138">444.  2017-04-20 18:15:15 +0000     2346 bytes  src/ts/rendering/cellRendererFactory.ts</tspan>
-<tspan x="10" y="8154">445.  2017-04-20 18:15:15 +0000     4300 bytes  src/ts/rendering/cellRendererService.ts</tspan>
-<tspan x="10" y="8170">446.  2017-04-20 18:15:15 +0000     3320 bytes  src/ts/rendering/cellRenderers/animateShowChange\</tspan>
+<tspan x="10" y="8106">442.  2017-04-20 18:16:22 +0000     1916 bytes  src/ts/rendering/cellEditors/selectCellEditor.ts</tspan>
+<tspan x="10" y="8122">443.  2017-04-20 18:16:22 +0000     2967 bytes  src/ts/rendering/cellEditors/textCellEditor.ts</tspan>
+<tspan x="10" y="8138">444.  2017-04-20 18:16:22 +0000     2346 bytes  src/ts/rendering/cellRendererFactory.ts</tspan>
+<tspan x="10" y="8154">445.  2017-04-20 18:16:22 +0000     4300 bytes  src/ts/rendering/cellRendererService.ts</tspan>
+<tspan x="10" y="8170">446.  2017-04-20 18:16:22 +0000     3320 bytes  src/ts/rendering/cellRenderers/animateShowChange\</tspan>
 <tspan x="10" y="8186">CellRenderer.ts</tspan>
-<tspan x="10" y="8202">447.  2017-04-20 18:15:15 +0000     2603 bytes  src/ts/rendering/cellRenderers/animateSlideCellR\</tspan>
+<tspan x="10" y="8202">447.  2017-04-20 18:16:22 +0000     2603 bytes  src/ts/rendering/cellRenderers/animateSlideCellR\</tspan>
 <tspan x="10" y="8218">enderer.ts</tspan>
-<tspan x="10" y="8234">448.  2017-04-20 18:15:15 +0000    16856 bytes  src/ts/rendering/cellRenderers/groupCellRenderer\</tspan>
+<tspan x="10" y="8234">448.  2017-04-20 18:16:22 +0000    16856 bytes  src/ts/rendering/cellRenderers/groupCellRenderer\</tspan>
 <tspan x="10" y="8250">.ts</tspan>
-<tspan x="10" y="8266">449.  2017-04-20 18:15:15 +0000     1244 bytes  src/ts/rendering/cellRenderers/iCellRenderer.ts</tspan>
-<tspan x="10" y="8282">450.  2017-04-20 18:15:15 +0000     4778 bytes  src/ts/rendering/checkboxSelectionComponent.ts</tspan>
-<tspan x="10" y="8298">451.  2017-04-20 18:15:15 +0000     2739 bytes  src/ts/rendering/columnAnimationService.ts</tspan>
-<tspan x="10" y="8314">452.  2017-04-20 18:15:15 +0000     1209 bytes  src/ts/rendering/columnHoverService.ts</tspan>
-<tspan x="10" y="8330">453.  2017-04-20 18:15:15 +0000      455 bytes  src/ts/rendering/dateComponent.ts</tspan>
-<tspan x="10" y="8346">454.  2017-04-20 18:15:15 +0000     3017 bytes  src/ts/rendering/features/setLeftFeature.ts</tspan>
-<tspan x="10" y="8362">455.  2017-04-20 18:15:15 +0000    45985 bytes  src/ts/rendering/renderedCell.ts</tspan>
-<tspan x="10" y="8378">456.  2017-04-20 18:15:15 +0000    45809 bytes  src/ts/rendering/renderedRow.ts</tspan>
-<tspan x="10" y="8394">457.  2017-04-20 18:15:15 +0000     2591 bytes  src/ts/rendering/rowContainerComponent.ts</tspan>
-<tspan x="10" y="8410">458.  2017-04-20 18:15:15 +0000    33977 bytes  src/ts/rendering/rowRenderer.ts</tspan>
-<tspan x="10" y="8426">459.  2017-04-20 18:15:15 +0000     1381 bytes  src/ts/rendering/valueFormatterService.ts</tspan>
-<tspan x="10" y="8442">460.  2017-04-20 18:15:15 +0000     4913 bytes  src/ts/rowModels/floatingRowModel.ts</tspan>
-<tspan x="10" y="8458">461.  2017-04-20 18:15:15 +0000     1204 bytes  src/ts/rowModels/iDatasource.ts</tspan>
-<tspan x="10" y="8474">462.  2017-04-20 18:15:15 +0000      810 bytes  src/ts/rowModels/inMemory/filterStage.ts</tspan>
-<tspan x="10" y="8490">463.  2017-04-20 18:15:15 +0000     6458 bytes  src/ts/rowModels/inMemory/flattenStage.ts</tspan>
-<tspan x="10" y="8506">464.  2017-04-20 18:15:15 +0000     7869 bytes  src/ts/rowModels/inMemory/inMemoryNodeManager.ts</tspan>
-<tspan x="10" y="8522">465.  2017-04-20 18:15:15 +0000    21080 bytes  src/ts/rowModels/inMemory/inMemoryRowModel.ts</tspan>
-<tspan x="10" y="8538">466.  2017-04-20 18:15:15 +0000      810 bytes  src/ts/rowModels/inMemory/sortStage.ts</tspan>
-<tspan x="10" y="8554">467.  2017-04-20 18:15:15 +0000     8933 bytes  src/ts/rowModels/infinite/infiniteBlock.ts</tspan>
-<tspan x="10" y="8570">468.  2017-04-20 18:15:15 +0000    13723 bytes  src/ts/rowModels/infinite/infiniteCache.ts</tspan>
-<tspan x="10" y="8586">469.  2017-04-20 18:15:15 +0000     9967 bytes  src/ts/rowModels/infinite/infiniteRowModel.ts</tspan>
-<tspan x="10" y="8602">470.  2017-04-20 18:15:15 +0000     7243 bytes  src/ts/rowModels/pagination/paginationComp.ts</tspan>
-<tspan x="10" y="8618">471.  2017-04-20 18:15:15 +0000    10363 bytes  src/ts/rowModels/pagination/serverPaginationServ\</tspan>
+<tspan x="10" y="8266">449.  2017-04-20 18:16:22 +0000     1244 bytes  src/ts/rendering/cellRenderers/iCellRenderer.ts</tspan>
+<tspan x="10" y="8282">450.  2017-04-20 18:16:22 +0000     4778 bytes  src/ts/rendering/checkboxSelectionComponent.ts</tspan>
+<tspan x="10" y="8298">451.  2017-04-20 18:16:22 +0000     2739 bytes  src/ts/rendering/columnAnimationService.ts</tspan>
+<tspan x="10" y="8314">452.  2017-04-20 18:16:22 +0000     1209 bytes  src/ts/rendering/columnHoverService.ts</tspan>
+<tspan x="10" y="8330">453.  2017-04-20 18:16:22 +0000      455 bytes  src/ts/rendering/dateComponent.ts</tspan>
+<tspan x="10" y="8346">454.  2017-04-20 18:16:22 +0000     3017 bytes  src/ts/rendering/features/setLeftFeature.ts</tspan>
+<tspan x="10" y="8362">455.  2017-04-20 18:16:22 +0000    45985 bytes  src/ts/rendering/renderedCell.ts</tspan>
+<tspan x="10" y="8378">456.  2017-04-20 18:16:22 +0000    45809 bytes  src/ts/rendering/renderedRow.ts</tspan>
+<tspan x="10" y="8394">457.  2017-04-20 18:16:22 +0000     2591 bytes  src/ts/rendering/rowContainerComponent.ts</tspan>
+<tspan x="10" y="8410">458.  2017-04-20 18:16:22 +0000    33977 bytes  src/ts/rendering/rowRenderer.ts</tspan>
+<tspan x="10" y="8426">459.  2017-04-20 18:16:22 +0000     1381 bytes  src/ts/rendering/valueFormatterService.ts</tspan>
+<tspan x="10" y="8442">460.  2017-04-20 18:16:22 +0000     4913 bytes  src/ts/rowModels/floatingRowModel.ts</tspan>
+<tspan x="10" y="8458">461.  2017-04-20 18:16:22 +0000     1204 bytes  src/ts/rowModels/iDatasource.ts</tspan>
+<tspan x="10" y="8474">462.  2017-04-20 18:16:22 +0000      810 bytes  src/ts/rowModels/inMemory/filterStage.ts</tspan>
+<tspan x="10" y="8490">463.  2017-04-20 18:16:22 +0000     6458 bytes  src/ts/rowModels/inMemory/flattenStage.ts</tspan>
+<tspan x="10" y="8506">464.  2017-04-20 18:16:22 +0000     7869 bytes  src/ts/rowModels/inMemory/inMemoryNodeManager.ts</tspan>
+<tspan x="10" y="8522">465.  2017-04-20 18:16:22 +0000    21080 bytes  src/ts/rowModels/inMemory/inMemoryRowModel.ts</tspan>
+<tspan x="10" y="8538">466.  2017-04-20 18:16:22 +0000      810 bytes  src/ts/rowModels/inMemory/sortStage.ts</tspan>
+<tspan x="10" y="8554">467.  2017-04-20 18:16:22 +0000     8933 bytes  src/ts/rowModels/infinite/infiniteBlock.ts</tspan>
+<tspan x="10" y="8570">468.  2017-04-20 18:16:22 +0000    13723 bytes  src/ts/rowModels/infinite/infiniteCache.ts</tspan>
+<tspan x="10" y="8586">469.  2017-04-20 18:16:22 +0000     9967 bytes  src/ts/rowModels/infinite/infiniteRowModel.ts</tspan>
+<tspan x="10" y="8602">470.  2017-04-20 18:16:22 +0000     7243 bytes  src/ts/rowModels/pagination/paginationComp.ts</tspan>
+<tspan x="10" y="8618">471.  2017-04-20 18:16:22 +0000    10363 bytes  src/ts/rowModels/pagination/serverPaginationServ\</tspan>
 <tspan x="10" y="8634">ice.ts</tspan>
-<tspan x="10" y="8650">472.  2017-04-20 18:15:15 +0000     9082 bytes  src/ts/rowModels/paginationProxy.ts</tspan>
-<tspan x="10" y="8666">473.  2017-04-20 18:15:15 +0000     2239 bytes  src/ts/rowNodes/filterService.ts</tspan>
-<tspan x="10" y="8682">474.  2017-04-20 18:15:15 +0000      879 bytes  src/ts/rowNodes/rowNodeFactory.ts</tspan>
-<tspan x="10" y="8698">475.  2017-04-20 18:15:15 +0000     2899 bytes  src/ts/rowNodes/sortService.ts</tspan>
-<tspan x="10" y="8714">476.  2017-04-20 18:15:15 +0000    11025 bytes  src/ts/selectionController.ts</tspan>
-<tspan x="10" y="8730">477.  2017-04-20 18:15:15 +0000     6842 bytes  src/ts/sortController.ts</tspan>
-<tspan x="10" y="8746">478.  2017-04-20 18:15:15 +0000     2473 bytes  src/ts/styling/stylingService.ts</tspan>
-<tspan x="10" y="8762">479.  2017-04-20 18:15:15 +0000    48113 bytes  src/ts/svgFactory.ts</tspan>
-<tspan x="10" y="8778">480.  2017-04-20 18:15:15 +0000     2451 bytes  src/ts/templateService.ts</tspan>
-<tspan x="10" y="8794">481.  2017-04-20 18:15:15 +0000    37667 bytes  src/ts/utils.ts</tspan>
-<tspan x="10" y="8810">482.  2017-04-20 18:15:15 +0000     6737 bytes  src/ts/valueService.ts</tspan>
-<tspan x="10" y="8826">483.  2017-04-20 18:15:15 +0000     4436 bytes  src/ts/widgets/agCheckbox.ts</tspan>
-<tspan x="10" y="8842">484.  2017-04-20 18:15:15 +0000     7223 bytes  src/ts/widgets/component.ts</tspan>
-<tspan x="10" y="8858">485.  2017-04-20 18:15:15 +0000     1712 bytes  src/ts/widgets/componentAnnotations.ts</tspan>
-<tspan x="10" y="8874">486.  2017-04-20 18:15:15 +0000    10078 bytes  src/ts/widgets/popupService.ts</tspan>
-<tspan x="10" y="8890">487.  2017-04-20 18:15:15 +0000     3231 bytes  src/ts/widgets/touchListener.ts</tspan>
-<tspan x="10" y="8906">488.  2017-04-20 18:15:15 +0000     2348 bytes  src/ts/xmlFactory.ts</tspan>
-<tspan x="10" y="8922">489.  2017-04-20 18:15:15 +0000      255 bytes  tsconfig.json</tspan>
-<tspan x="10" y="8938">490.  2017-04-20 18:15:15 +0000      318 bytes  webpack.config.js</tspan>
+<tspan x="10" y="8650">472.  2017-04-20 18:16:22 +0000     9082 bytes  src/ts/rowModels/paginationProxy.ts</tspan>
+<tspan x="10" y="8666">473.  2017-04-20 18:16:22 +0000     2239 bytes  src/ts/rowNodes/filterService.ts</tspan>
+<tspan x="10" y="8682">474.  2017-04-20 18:16:22 +0000      879 bytes  src/ts/rowNodes/rowNodeFactory.ts</tspan>
+<tspan x="10" y="8698">475.  2017-04-20 18:16:22 +0000     2899 bytes  src/ts/rowNodes/sortService.ts</tspan>
+<tspan x="10" y="8714">476.  2017-04-20 18:16:22 +0000    11025 bytes  src/ts/selectionController.ts</tspan>
+<tspan x="10" y="8730">477.  2017-04-20 18:16:22 +0000     6842 bytes  src/ts/sortController.ts</tspan>
+<tspan x="10" y="8746">478.  2017-04-20 18:16:22 +0000     2473 bytes  src/ts/styling/stylingService.ts</tspan>
+<tspan x="10" y="8762">479.  2017-04-20 18:16:22 +0000    48113 bytes  src/ts/svgFactory.ts</tspan>
+<tspan x="10" y="8778">480.  2017-04-20 18:16:22 +0000     2451 bytes  src/ts/templateService.ts</tspan>
+<tspan x="10" y="8794">481.  2017-04-20 18:16:22 +0000    37667 bytes  src/ts/utils.ts</tspan>
+<tspan x="10" y="8810">482.  2017-04-20 18:16:22 +0000     6737 bytes  src/ts/valueService.ts</tspan>
+<tspan x="10" y="8826">483.  2017-04-20 18:16:22 +0000     4436 bytes  src/ts/widgets/agCheckbox.ts</tspan>
+<tspan x="10" y="8842">484.  2017-04-20 18:16:22 +0000     7223 bytes  src/ts/widgets/component.ts</tspan>
+<tspan x="10" y="8858">485.  2017-04-20 18:16:22 +0000     1712 bytes  src/ts/widgets/componentAnnotations.ts</tspan>
+<tspan x="10" y="8874">486.  2017-04-20 18:16:22 +0000    10078 bytes  src/ts/widgets/popupService.ts</tspan>
+<tspan x="10" y="8890">487.  2017-04-20 18:16:22 +0000     3231 bytes  src/ts/widgets/touchListener.ts</tspan>
+<tspan x="10" y="8906">488.  2017-04-20 18:16:22 +0000     2348 bytes  src/ts/xmlFactory.ts</tspan>
+<tspan x="10" y="8922">489.  2017-04-20 18:16:22 +0000      255 bytes  tsconfig.json</tspan>
+<tspan x="10" y="8938">490.  2017-04-20 18:16:22 +0000      318 bytes  webpack.config.js</tspan>
 </text>
 </svg>
